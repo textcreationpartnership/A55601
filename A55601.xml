@@ -1,0 +1,1276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The present prospect of the famous and fertile island of Tobago with a description of the situation, growth, fertility and manufacture of the said island, to which is added proposals for the encouragement of all those that are minded to settle there / by Captain John Poyntz.</title>
+            <author>Poyntz, John, b. 1606.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55601</idno>
+            <idno type="STC">Wing P3130</idno>
+            <idno type="STC">ESTC R3297</idno>
+            <idno type="EEBO-CITATION">11880850</idno>
+            <idno type="OCLC">ocm 11880850</idno>
+            <idno type="VID">50325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50325)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 506:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The present prospect of the famous and fertile island of Tobago with a description of the situation, growth, fertility and manufacture of the said island, to which is added proposals for the encouragement of all those that are minded to settle there / by Captain John Poyntz.</title>
+                  <author>Poyntz, John, b. 1606.</author>
+               </titleStmt>
+               <extent>[4], 47 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Larkin for the author and are to be sold by Thomas Malthus ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: The present prospect of the island of Tobago.</note>
+                  <note>Advertisement on p. 47.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tobago --  Description and travel.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50325:1" rendition="simple:additions"/>
+            <p>THE <hi>Preſent Proſpect</hi> OF THE Famous and Fertile ISLAND OF TOBAGO: WITH A
+Deſcription of the Situation, Growth, Fertility and Manufa<g ref="char:EOLhyphen"/>cture of the ſaid Iſland.</p>
+            <p>To which is Added, <hi>Propoſals for the Encouragement of all thoſe that are minded to
+ſettle there.</hi>
+            </p>
+            <p>By Captain <hi>JOHN POYNTZ.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>George Larkin</hi> for the Author, and are to be Sold by
+<hi>Thomas Malthus,</hi> at the <hi>Sun</hi> in the <hi>Poultrey.</hi> 1683.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:50325:2"/>
+            <pb facs="tcp:50325:2" rendition="simple:additions"/>
+            <head>To the <hi>READER.</hi>
+            </head>
+            <opener>
+               <salute>Courteous Reader.</salute>
+            </opener>
+            <p>THou art here preſented with The Preſent Pro<g ref="char:EOLhyphen"/>ſpect of the Iſland of <hi>Tobago,</hi>
+about forty Leagues diſtant from <hi>Barbadoes;</hi> but far excelling that Iſland, and indeed
+any other of the Caribee-Iſlands, in the Fertility and Richneſs of the Soil, and in the
+Commodiouſneſs of its Bays and Harbors: And it is no Paradox to affirm, That though it lies
+<hi>more South,</hi> the <hi>Air</hi> is as <hi>Cool</hi> and <hi>Refreſhing</hi> as that of
+<hi>Barba<g ref="char:EOLhyphen"/>does:</hi> and yet Exempted from thoſe affrighting and deſtructive
+<hi>Hurricanes</hi> that have been often Fatal to the reſt of the <hi>Caribee</hi>-Iſlands.</p>
+            <p>Nor is it unfurniſhed with any thing neceſſary for the Suſtenance and Preſervation of
+Humane Life; as you will ſee by the Enſuing Proſpect of it, in which there is nothing ſet
+down but what will be atteſted by ſeveral that have been upon the Iſland, and what thou wilt
+find there, if Providence ſhould bring thee thither: For there is variety enough of the real
+Products of the Iſland to di<g ref="char:EOLhyphen"/>late upon, without Interlarding it with fictitious Stories:</p>
+            <pb facs="tcp:50325:3"/>
+            <p>And I am perſwaded there is no Iſland in <hi>America,</hi> that can afford us more ample
+Subjects to contemplate the Bounty and Goodneſs of our Great Creator in, than this of
+<hi>Tobago;</hi> And this I ſpeak not by hearſay, or as one that has liv'd always at home; but
+as one that has had Experience of the World, and been in the greateſt Part of the
+<hi>Caribee</hi>-Iſlands, and moſt parts of the Conti<g ref="char:EOLhyphen"/>nent of <hi>America,</hi> and almoſt
+all his Majeſties For<g ref="char:EOLhyphen"/>reign Plantations; and after having view'd them all, have choſen this
+Iſland of <hi>Tobago</hi> to take up my <hi>Qui<g ref="char:EOLhyphen"/>etus eſt</hi> in.</p>
+            <p>To which end I have purchaſed a Grant from the Duke of <hi>Courland</hi> (to whom by vertue of
+an Agree<g ref="char:EOLhyphen"/>ment with His preſent Majeſty of <hi>Great Britain,</hi> the ſaid Island does
+ſolely belong) of <hi>120000</hi> Acres of the ſaid Island for my ſelf and Company, upon very
+Advan<g ref="char:EOLhyphen"/>tagious Conditions, for which I refer thee to the Propoſals at the end of the Book; and to
+the Grant it ſelf, in my own Cuſtody; Being very willing to give all reaſonable Satisfaction
+to thoſe whoſe hearts ſhall incline to ſettle there.</p>
+            <closer>
+               <signed>JOHN POYNTZ.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="description">
+            <pb n="1" facs="tcp:50325:3" rendition="simple:additions"/>
+            <head>
+               <hi>The Preſent Proſpect OF TOBAGO: WITH</hi> A Deſcription of the Situation,
+Fertility, Growth and Manufacture of that Iſland.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S I deſign only to deſcribe the Flou<g ref="char:EOLhyphen"/>riſhing Iſland of <hi>Tobago,</hi> ſo I
+re<g ref="char:EOLhyphen"/>ſolve by the Methods I have taken, not to build the <hi>Porch</hi> too big for the
+<hi>Houſe:</hi> For that end let this ſmall Introduction admit you to a Proſpect of
+<hi>Tobago,</hi> which is a Sub<g ref="char:EOLhyphen"/>ject that needs no Encomium to il<g ref="char:EOLhyphen"/>luſtrate ſo fertile a Soil as
+deſervedly may ſpeak her own Praiſe, becauſe conſented to by moſt that have known her,
+to vye with the Glory of all the <hi>Caribes:</hi> So that I approve it convenient ſhe be heard
+to ſpeak, and in her own Dialect too; then upon Exa<g ref="char:EOLhyphen"/>min by thoſe that conſult her, ſhe'll
+be found to evince the Incredulous beyond ſuſpicion.</p>
+            <p>And ſince in the Frontiſpiece I have promiſed to in<g ref="char:EOLhyphen"/>troduct
+<pb n="2" facs="tcp:50325:4"/>you to the Situation of the Iſland, I do it by telling you that it lies in
+Eleven Degrees Thirty Mi<g ref="char:EOLhyphen"/>nutes North-Latitude, and in Fifty Three Degrees Six Minutes Longitude,
+Weſt from the <hi>Lizard;</hi> and about Forty Leagues diſtant from the flouriſhing
+<hi>Barbados,</hi> as Captain <hi>Lloyd</hi> aſſerts in his Breviat; who alſo affirms it the
+moſt Convenient, Commodious, and Salubrious Iſland in the <hi>Caribes;</hi> and truly ſo it
+may, being ſo ſweet<g ref="char:EOLhyphen"/>ly tempered with thoſe moderate and Soveraign Breezes of Wind that
+refreſh the Planter by Day, and purges the Air by Night: So that the Day-Breez ſprings by
+fa<g ref="char:EOLhyphen"/>vour from the Ocean, and riſes with the Sun, as does the Night-Breez refreſh by ſofter
+Gales, ſent from her Rocks and Mountanous Elevations. Nor is the rage of a Tempeſt at any time
+heard to dread the Inhabitants, nor the terror of a Hurricane ever known to invade them; which of
+all things is moſt dreadful, and con<g ref="char:EOLhyphen"/>ſequently moſt fatal, to the reſt of the
+<hi>Caribes;</hi> this be<g ref="char:EOLhyphen"/>ing the Southermoſt Iſland (and neareſt to the <hi>Spaniſh</hi>
+Coaſt) which no Hurricane has hitherto invaded, as ever was heard of by any of the Inhabitants.
+How<g ref="char:EOLhyphen"/>ever it exceeds not Thirty two miles in Length, and I ſhould err to ſay more then Eleven in
+Breadth; which diſproportion is ſufficiently recompenc'd by the Natu<g ref="char:EOLhyphen"/>ral Scituation of the Bays
+and the Harbours for Shipping; as are the Rivers, Rivulets, &amp; larger Openings convenient for
+Navigating of Sloops and ſmaller Veſſels, whereby to furniſh the Inhabitants, and commode
+them for deſence.</p>
+            <p>Inaſmuch therefore as by reaſon of her Fertility ſhe acquires to her ſelf the Sirname of
+<hi>Fortunate,</hi> except otherwiſe the <hi>Dutch</hi> ſuperſcribe her Unfortunate, when,
+becauſe to involve them in her Redolent Em<g ref="char:EOLhyphen"/>bracements, or to invite forreign Princes to emulate
+their Proſperity: However at preſent ſhe lives in peace,
+<pb n="3" facs="tcp:50325:4" rendition="simple:additions"/>and to out-live her troubles, and by the Provi<g ref="char:EOLhyphen"/>dence of God ſleeps in
+the Arms of Security; whoſe Soil is ſo rich without Art or Cultivation, that ſome have
+fancied her the <hi>Paradiſe</hi> of the <hi>Indies;</hi> dreſt up in a beauteous Complexion of
+Soil, that repreſents in ſome parts a moſt pleaſant Redneſs, whilſt to admiration in
+other places it ſhines with Blackneſs; and becauſe min<g ref="char:EOLhyphen"/>gled for the moſt part with a Marley
+Subſtance, pene<g ref="char:EOLhyphen"/>trates the Earth a conſiderable depth; which evidently proves by convincing
+Argument, the prodigious growth of her maſſy and ponderous Timber-Trees, of which we ſhall
+ſpeak in their proper Claſſis; as alſo of the Natural Plenty and Produce of Proviſion,
+the Delicacy of Fruits, and the Soveraign Vertue of Roots, Herbs, Flowers, and Medicinal Drugs;
+beſides Natures Boun<g ref="char:EOLhyphen"/>ty in Variety of Beaſts, and Heavens Benediction in the multiplication of
+Fiſh and Fowl, that abound both in freſh and in ſalt Water; which becauſe of another
+Or<g ref="char:EOLhyphen"/>der, will the rather admit of a diſtinct Diſcourſe: So the Staple of the Iſland, and the
+Natural Product, will give us an occaſion to offer it ſomewhere elſe.</p>
+            <p>But the Planters and the Inhabitants preſent a new Proſpect; whoſe Charge will be much
+leſſned to thoſe that live Northwardly, by reaſon of a warm yet tempe<g ref="char:EOLhyphen"/>rate Heat, becauſe
+moderated by a continued Breez of Wind; So that here's no Summer ſpent on purpoſe to accumulate
+or heap up Proviſion for Winters Accom<g ref="char:EOLhyphen"/>modation; becauſe all the year long both Herbage and
+Fruits ſprout and bud up by a perpetual Spring; and the Warmth in it ſelf ſo natural to
+nouriſh Age, as is the Germinating (or budding) Spring to give encou<g ref="char:EOLhyphen"/>ragement to Youth. And the
+Iſland is ſo repleniſh'd with materials for Building, that provided you bring dextrous Hands
+and good Artificers, you may in a lit<g ref="char:EOLhyphen"/>tle
+<pb n="4" facs="tcp:50325:5"/>Time, and with ſinall Charge, build both Houſes and Towns, or
+Fortifications.</p>
+            <p>The next thing to conſult is, The Growth and Ma<g ref="char:EOLhyphen"/>nufacture of the Countrey, improvable by
+Induſtry, and the Mediums of Art; which will fall in courſe at the Opening of Individuals; ſo
+that we may proceed to the ſeveral particulars, referring the Reader for ſatis<g ref="char:EOLhyphen"/>faction to the
+Propoſals, if deſirous to conſult the Grant, Government, Religion, Liberty of Conſcience,
+the Settlement, Inſurance, Accommodation, Factories, Shipping, and Encouragement for
+Tranſportation; which is fully expreſt, without Fraud or Ambiguity.</p>
+            <div n="grain" type="part">
+               <head>Of GRAIN.</head>
+               <p>FIrſt therefore let us begin with <hi>Indian Corn,</hi> which is either ſuch as grows in
+<hi>Virginia, New-York, Caro<g ref="char:EOLhyphen"/>lina,</hi> &amp;c. and ſo proceed to <hi>Guiney-Corn,</hi> or any
+other that hath growth in the Iſland. But I ſhall delude you if to tell you that <hi>Engliſh
+Grain</hi> grows here: However there are Engliſh Peaſe, and of various ſorts; and Beans, and
+Pulſe enough, as you may obſerve if you pleaſe, by the enſuing Diſcourſe.</p>
+               <p>The <hi>Indian-Corn</hi> buds, and grows out with a ſmall ſtem upon a ſtrong ſtalk,
+(which ſtalk they burn in <hi>Barbados</hi> under their Coppers in Crop-time, to boil up their
+Sugar) and has a fibrous or ſtringy Root; ſome of it brings one Ear, ſome two, and ſome
+others three: But the green Leaves in moſt of the <hi>Caribe</hi> Iſles, they fre<g ref="char:EOLhyphen"/>quently
+ſtrip off, and give them to their Cattel. Of this ſort of Corn, you may expect at leaſt two,
+if not three Crops yearly, to a very great Increaſe; whereof
+<pb n="5" facs="tcp:50325:5"/>very good Bread is made; and with indifferent Art, a moſt delicate Drink.</p>
+               <p>The <hi>Guiney-Corn</hi> is much of the figure and the nature of <hi>Rice;</hi> ſave onely
+<hi>Rice</hi> has a ſlender ſtalk, and a ſmal<g ref="char:EOLhyphen"/>ler Ear, and grows in Swamps and moiſt
+Bottoms; but this will grow on the Tops of Rocks, and produce its Increaſe upon any Soil. The
+ſtalk is ſtrong, very large and tall; and the Corn ſprouts forth on the top, or ex<g ref="char:EOLhyphen"/>treameſt
+part of the ſtalk, (it has a fibrous Root) and augments to a prodigious increaſe; for one Grain
+by natural Product, without the Art of Cultivation, mul<g ref="char:EOLhyphen"/>tiplies of it ſelf into many thouſands.
+Of this they make Bread, Dumplins, and Puddings; and ſome hull it like <hi>Rice,</hi> and boil it
+with Milk.</p>
+               <p>The <hi>Bonivis</hi> repreſents the ſhape of a Pea, ſave only its ſome what longer;
+which if once put into the ground, the Art of Man can hardly deſtroy it; for it ſeldom dies,
+but continually buds, and bloſſoms, ac<g ref="char:EOLhyphen"/>commodating the Planter with green, and ripe Peaſe all
+the year about. Nor think I them inferiour to the beſt of <hi>French Beans,</hi> if indifferently
+boiled, and eaten with ſweet Butter; but then it muſt be while they are green and tender; for
+when they are ripe, their Caſe or Rind turns white; which if dried, and as other Pulſe boiled,
+are eaten with Pork, and are a Nouriſhing Food.</p>
+               <p>Then there's the <hi>French Pea,</hi> ſo much admired in <hi>Martinego;</hi> I confeſs it a
+wholeſome and ſtrengthen<g ref="char:EOLhyphen"/>ing Food, both for Native and Planter; which alſo thrives to a
+prodigious increaſe, and bears without in<g ref="char:EOLhyphen"/>terruption all the year about.</p>
+               <p>So of the <hi>Jamaica</hi> (or the five weeks Pea) by ſlender Art or Induſtry you can never
+want them; and he that wants them not, has always ſomething that's good and wholeſome to ſeed
+on. But as Idleneſs is the Darling
+<pb n="6" facs="tcp:50325:6"/>of Eaſe, ſo through a vain Remiſneſs ſome ſlide into Poverty.</p>
+               <p>There is alſo the <hi>Kidney-Pea,</hi> and the <hi>Black-ey'd-Pea,</hi> much of one nature and
+vertual property; and be<g ref="char:EOLhyphen"/>cauſe of its figure, formation, and likeneſs to the
+<hi>Kid<g ref="char:EOLhyphen"/>ney-Bean,</hi> have almoſt to ſuperſtition made ſome fancy it a Specifick.</p>
+               <p>The <hi>Pidgeon-Pea</hi> grows here alſo, and is a pleaſant Food; but they muſt be
+gathered whilſt as yet they are young, and eaten with ſweet Butter whilſt their Buds are
+tender.</p>
+               <p>Then there's the <hi>French-Bean</hi> (of a very large ſize) which, if eaten with ſweet
+Butter and Bacon, makes a Harmony in the Stomach. Beſides ſeveral other vari<g ref="char:EOLhyphen"/>ous and curious
+ſorts of Pulſe this Iſland produceth, to the admiration of all men: So that if Summer Grain
+be ſo happy to fall into that fertile Soil, it never miſſeth of a generous increaſe.
+Moreover, here are all manner of Pulſe, as if naturally ſtrewed up and down the Coun<g ref="char:EOLhyphen"/>trey; and
+which alſo ſprings up all the year about: So that People need not to be tempted into the
+conſidera<g ref="char:EOLhyphen"/>tion of Starving, except through Obſtinacy, or a vain Neglect, or degenerating from
+Mankind, they offer an Unnatural Violence to Themſelves.</p>
+               <p>I remember the wonderful preſervation of <hi>Otto Eden,</hi> (a Dutchman) that ſled in a
+ſmall Veſſel from <hi>Surinam,</hi> to preſerve himſelf and Family; which by Gods
+Pro<g ref="char:EOLhyphen"/>vidence were miraculouſly preſerved in this Fortunate Iſland of <hi>Tobago;</hi> but a
+Stranger on the place, and be<g ref="char:EOLhyphen"/>cauſe having no Bread to eat, and his half-famiſh'd Children
+lamenting about him, it ſtruck him into a deep Melancholy: So that whiles under a heavy
+preſſure of mind, and conſidering what to do, a Proteſtant-<hi>Indian</hi> that fled along
+with him, asked Mr. <hi>Eden, Why out of
+<pb n="7" facs="tcp:50325:6"/>meaſure ſo ſorrowful?</hi> Mr. <hi>Eden</hi> replies, <hi>I that have fed
+ſo many ſcores of People, have not at preſent where withal to eat:</hi> To which the
+<hi>Indian</hi> anſwered, <hi>That God that gave you Preſervation, has brought you into a Land
+of Plenty; Deſpair not, Mr.</hi> Eden; <hi>Furniſh me with a Ne<g ref="char:EOLhyphen"/>gro or two, and a couple of
+Axes, and I'll ſuddenly bring you ſome Proviſion to eat:</hi> Which was preſently
+perfor<g ref="char:EOLhyphen"/>med by ſtriking down a large <hi>Macaw</hi> Tree (about the bigneſs of a mans middle)
+and of the whitiſh pithy ſubſtance near to the Top, he beats in a Mortar, then preſſed
+out the Juyce, and boiled it to the conſiſtency of a Haſty-Pudding: But the reſidue he
+dried, and rub'd to a perfect Flower; which with nothing elſe but fair Water only, he moulds into
+Cakes; of which like Bread I eat at my arrival in <hi>Tobago,</hi> at the ſame <hi>Eden</hi>'s
+Houſe, and did verily perſwade my ſelf (before I heard this Relation) that it was Dutch
+Wheaten Bisket.</p>
+            </div>
+            <div n="fruit" type="part">
+               <head>Of FR<g ref="char:V">Ʋ</g>IT.</head>
+               <p>I Am now entred upon the Claſſis of <hi>Fruits,</hi> and ſhal firſt begin with the
+<hi>Cuſhen Apple,</hi> which is meat and drink; only made diſtinguiſhable by the Art of
+boyling, whoſe Nuts if preſerv'd you may eat, and of the Rind whiles green make an excellent
+Lamp Oyl, which by ſmall Artifice is eaſily obtainable.</p>
+               <p>But the <hi>Bmano</hi> is a fruit of that ſingular Admiration that the Superſtitious
+<hi>Papist</hi> durſt not cut it with a Kniſe; leſt deſponding with himſelf he divide the
+Croſs. This Fruit alſo may be eaten raw, or bettered by an eaſy Decoction of Fire.</p>
+               <pb n="8" facs="tcp:50325:7"/>
+               <p>Here is alſo the <hi>Figg-Tree,</hi> ſuch as is that in <hi>Spain,</hi> and
+<hi>Portugal,</hi> and ſeveral parts in <hi>America;</hi> which Fruit may be eaten while as yet
+its ripe; or expoſed to better Husbandry, it ſerves for good Drink.</p>
+               <p>Then there's the <hi>Prickle-Apple,</hi> of a ſharp brisk taſte; (and an <hi>Indian</hi>
+expedient againſt the <hi>Bloody-Flux</hi>) it makes a brave <hi>Marmalade:</hi> and helps for
+ſtaining and colouring any thing. But the <hi>Prickle-Pear,</hi> to ſpeak its due praiſe, is
+one of the moſt Soveraign Fruits in the <hi>Indies.</hi>
+               </p>
+               <p>The <hi>Pome-granate,</hi> is a Fruit of that ſingular Eminen<g ref="char:EOLhyphen"/>cy, as hardly to be expreſt,
+without a Scriptural Phraſe: They are plentiful here, a Reſtringent and Cooler; Conſulted by
+the Natives in Fevers, and Fluxes.</p>
+               <p>The <hi>Pine-Apple,</hi> I muſt confeſs is a Fruit of that Ex<g ref="char:EOLhyphen"/>cellency, that I want
+Rhetorick and Oratory to expreſs it. Some bears a Crown, and is the King of Fruits; but to them
+with three Crowns, the Idolatrous pay their Superſtitions, The Fruit of it ſelf is of Fruit
+moſt delicious, and the Liquor botled up, makes an admira<g ref="char:EOLhyphen"/>ble Drink.</p>
+               <p>Here are alſo <hi>Pum-Citrons,</hi> that make an excellent l'reſerve.</p>
+               <p>But of <hi>Oranges</hi> here are three ſorts; The ſower for ſauce, and the Flowers for
+Eſſences, the ſweet ones are eaten for Reereation. But the <hi>China-Orange</hi> that grows
+here in <hi>America,</hi> ſuper-excels thoſe in <hi>Europe</hi> be<g ref="char:EOLhyphen"/>yond expreſs.</p>
+               <p>Of <hi>Lemons</hi> alſo, here are two ſeveral ſorts; the ſower one, for
+<hi>Lemanadoes;</hi> and the ſweet one for Delectation. So of Limes alſo, here are ſweet and
+ſower: with the laſt of which, they make Limeads and Punch.</p>
+               <p>
+                  <hi>Guavers</hi> are a Fruit that's very ſtony, there's the white and the Red; but they differ
+in Virtue: and if baked
+<pb n="9" facs="tcp:50325:7"/>or boyled green, are either of them Specificks againſt immoderate Purgations.
+Moreover if you weed, or pick out the ſtones; you have then a baſis for Marmalade, to equalize
+Quinces.</p>
+               <p>
+                  <hi>Tamerinds,</hi> grow here by natural inſtinct; they'r a delicate fruit, and vertual in
+Feavers.</p>
+               <p>But the <hi>Planton</hi> of all fruits, the <hi>Nigros</hi> love beſt; and is a nouriſhing
+Soveraign wholeſome food. Some eat them raw when Nature has ripned them; and ſome a<g ref="char:EOLhyphen"/>gain
+roaſt them before they be ripe. Some eat them green, and ſome take and boyl them, and
+otherſome eat them as often as they get them. Now to roaſt them they are bread, and to boyl
+them they are ſawce; or Marmelade may be made: but to barbacue or dry them in the Sun you may rub
+them to a Flower.</p>
+               <p>Here are Grapes great ſtore, but are eaten off the Cluſtre; for the Planter has another
+Proſpect more pro<g ref="char:EOLhyphen"/>fitable than Wine.</p>
+               <p>The <hi>Cuſtard Apple,</hi> to my taſte I muſt confeſs is very delightful.</p>
+               <p>Then there's the <hi>Sower Sop,</hi> a mediocrity of nouriſh<g ref="char:EOLhyphen"/>ment: to ſome its meat, when to
+otherſome drink.</p>
+               <p>And the <hi>Papaw-Apple,</hi> which to my liking is very grateful, and apetizing when ſhaped
+into ſawce, by boyling it with Salt-beef: and if ſo happy to mingle it with ſweet and freſh
+Butter: except the <hi>Squaſh,</hi> there's nothing beyond it.</p>
+               <p>The <hi>Mamme Apple</hi> grows to the Magnitude of a Pound Pear, its of a yellow colour, and
+eats like Marmalade. Then there's the Mamme Supporter, much of the ſame Nature with the former,
+ſave only the laſt has two ſtones, and the firſt as in order is indewed but with one.</p>
+               <p>The <hi>Yellow-plum,</hi> grows every where here, and is of
+<pb n="10" facs="tcp:50325:8"/>Plums a moſt Luſcious Food. But then there's more cry then wool, for what
+with the greatneſs of the Stone and the thickneſs of the external rind, the fruit can
+ſcarcely get a Habitation betwixt them.</p>
+               <p>There are <hi>Cherry-trees</hi> alſo, (which bear the year a<g ref="char:EOLhyphen"/>bout) whoſe fruit is ſomewhat
+of a ſharpiſh taſte; then there's the Cherry which the <hi>Spaniard</hi> calls
+<hi>Purgas,</hi> which, when throughly ripe, are mellifluous and ſweet, of a cooling and opening
+Nature, which if preſerv'd would be a Rariety for <hi>England.</hi>
+               </p>
+               <p>But the <hi>Cocur-Nut-tree,</hi> and the fruit that hangs up<g ref="char:EOLhyphen"/>on it, the <hi>Indians</hi> idolize
+it, and call it Gods-tree: be<g ref="char:EOLhyphen"/>cauſe to produce both meat, drink, and Cloth: its true beyond
+diſpute, that the Nut of it ſelf is a ſweet be<g ref="char:EOLhyphen"/>yond the ſweeteſt <hi>Almond;</hi> and the
+Liquor that lodgeth in the boſom of this fruit, is to my liking beyond <hi>Flo<g ref="char:EOLhyphen"/>rens</hi> at
+<hi>Frontiniack:</hi> but the Shell ſerves for Cups, Spoons, and Diſhes; and the Rind
+encompaſſing the Shell, ſerves the <hi>Indians</hi> for covering, and with the Leaves they
+thatch their Houſes, and make Baskets, but ſome more ingenious make Ropes, and Lines for
+<hi>Fishing.</hi>
+               </p>
+               <p>Of the <hi>Maccaw-Nut</hi> Shell, the <hi>Indians</hi> make the boles of their <hi>Tobacco</hi>
+pipes; the kernel is eatable, Yet not very admirable; but the Nut of it ſelf makes an excel<g ref="char:EOLhyphen"/>lent
+Lamp-Oyl.</p>
+               <p>Then there's the <hi>Phyſick-Nut,</hi> of whoſe tree they make ſences: the Nut of it
+ſelf is a violent Emetick, as alſo a <hi>Cathartick:</hi> but the whole macerated, and boyled
+with Water, by a culinary Operation affords you Lamp Oyl.</p>
+               <p>Here are alſo two ſorts of <hi>Melons;</hi> the one is called <hi>Musk,</hi> but the other
+the <hi>Water-Mellon.</hi> The firſt is a food of incomparable taſte; but the laſt affords
+you
+<pb n="11" facs="tcp:50325:8"/>both Drink and Meat; of which you can never eat to a Surfeit.</p>
+               <p>
+                  <hi>Penguins</hi> are a brisk and ſharp fruit, extoll'd by the <hi>Indians</hi> for their
+excellency in Feavers.</p>
+               <p>There are <hi>Cucumbers</hi> of two ſorts; the one to eat raw, and the other to pickle.</p>
+               <p>And prodigious <hi>Pumkins,</hi> I bluſh to expreſs their mag<g ref="char:EOLhyphen"/>nitude: with <hi>Simnels</hi>
+and <hi>Squaſhes</hi> much of a Nature concordant: theſe make excellent ſauce to eat with
+Salt Beef; and if rightly ordered, far Excel Cole<g ref="char:EOLhyphen"/>worts.</p>
+               <p>Then there's two ſorts of <hi>Gourds;</hi> the ſweet one which the Planter boyls to make
+broth Medicinal; and the wild Gourd for Inſtruments, and veſſels to con<g ref="char:EOLhyphen"/>tain Liquors.</p>
+            </div>
+            <div n="roots" type="part">
+               <head>Of Roots.</head>
+               <p>THis Iſland of <hi>Tobago</hi> Accommodates the Planter with three ſorts of
+<hi>Potatoes;</hi> the white, the Yel<g ref="char:EOLhyphen"/>low, and the red <hi>Potato:</hi> but the White and the
+Yellow they boyl for food; and are the general Nouriſhment all the <hi>Indies</hi> over. Now of
+the Yellow ſort the more ingenious with a Tincture of the Red make a pleaſant Liquor, which
+when ſweetned with Sugar, they bottle it up; and after twenty four hours its ready for drink<g ref="char:EOLhyphen"/>ing:
+this is a Liquor known only by the name of <hi>Mobby,</hi> and is the univerſal drink in the
+Iſland of <hi>Tobago.</hi>
+               </p>
+               <p>There are <hi>Eddies</hi> alſo, a moſt incomparable Root; and <hi>Yames,</hi> the whole
+World has not better to boaſt of, for a wholeſome, toothſome, and a Nouriſhing Root,
+beſides divers other Roots that I have no name for
+<pb n="12" facs="tcp:50325:9"/>Theſe and <hi>Potatoes</hi> are their natural bread, if not impro<g ref="char:EOLhyphen"/>per to call
+it ſo; however it's food, if not bread of ano<g ref="char:EOLhyphen"/>ther faſhion. Then there's <hi>Turnips,
+Parſnips, Onions,</hi> and <hi>Carrots:</hi> but theſe laſt are nouriſht by art, in as much
+as none of them are <hi>America's</hi> natural product.</p>
+               <p>The Caſſado Root ranges it ſelf in another order, whoſe Liquor intoxicates, and is as
+truculent as Death. But the Bread thereof, if by a diligent hand well ordered, is as pleaſant,
+and wholſome as our <hi>Engliſh</hi> Flower; and the Drink which afterwards is made of the
+Bread; is a Liquor ſteddy (and heady enough) known by the name of <hi>Pereno.</hi>
+               </p>
+            </div>
+            <div n="herbs and spices" type="part">
+               <head>Of Herbs and Spices.</head>
+               <p>HEre for the moſt part you may by your induſtry cauſe all ſorts of ſallating to grow,
+ſince Nature has been bountiful by the preordinate Councel of Hea<g ref="char:EOLhyphen"/>ven to influence, and
+impregnate this Iſland with vari<g ref="char:EOLhyphen"/>ety; and truly I have wondred how the ſoil comes to be ſo
+rich, till conſidering its nouriſhed by a Nitrous Air. And this is the place wherein
+<hi>Tea</hi> grows naturally (&amp; plentifully) meaning ſuch <hi>Tea</hi> as is frequently
+ſold in our <hi>Engliſh</hi> Coffee-houſes.</p>
+               <p>There is alſo a certain Bark that's called by the name of <hi>Tobago</hi>-Cinnamon, that grows
+upon a Shrub or a ſmall Tree. Then there is long Pepper, that ſprouts up in every Angle; and
+<hi>Codd Pepper, Bell Pepper,</hi> and <hi>Round Pepper;</hi> ſome red, and ſome green, that
+grows naturally withour cultivation. Then there's that fa<g ref="char:EOLhyphen"/>mous <hi>American Spice,</hi> (or
+<hi>Jamaico Pepper</hi>) that gives both the redolency, Flavour, and tact of Cloves, and
+<pb n="13" facs="tcp:50325:9"/>Cinnamon; with a complicated mixture of ſeveral and various ſweets; but
+theſe fall from the <hi>Bay-tree.</hi> Ma<g ref="char:EOLhyphen"/>ny other profitable Rarities, as <hi>Fruits, and
+Roots,</hi> be<g ref="char:EOLhyphen"/>ſides what's ſet down in this ſhort Paragraph, this I<g ref="char:EOLhyphen"/>ſland, becauſe
+adorned with <hi>Roots</hi> &amp; <hi>Herbage,</hi> liberally and freely preſents them to the
+induſtrious Planter; but not as a gratuity to compenſate his labour; rather out of a bounteous
+and innate generoſity.</p>
+            </div>
+            <div n="flesh" type="part">
+               <head>Of Fleſh.</head>
+               <p>ANd now we preſent you with the Claſis of <hi>Fleſh,</hi> give me leave therefore in the
+firſt place to begin with the <hi>Wild-Hogg,</hi> of which ſort of Cattle their num<g ref="char:EOLhyphen"/>bers are
+innumerable; when yearly the people cut off at leaſt twenty thouſand, and yet they increaſe
+ſoprodigi<g ref="char:EOLhyphen"/>ouſly faſt, that neither Gun, nor Engin, nor any other Ar<g ref="char:EOLhyphen"/>tifice can be found to
+deſtroy them. It's truth beyond ſuſ<g ref="char:EOLhyphen"/>pition that the <hi>Barbadians</hi> kill ſome of them;
+but the reſt of the <hi>Caribes</hi> and others are daily viſitants; who to ſave it for
+tranſportation, or preſerve it for their own accom<g ref="char:EOLhyphen"/>modation, commonly Jerk, and dry ſalt it
+in the Sun, or in Bulk or Pickle. But here you are to conſider in the deſcription of Fleſh, I
+onely touch upon the natural produce of the Countrey.</p>
+               <p>The <hi>Pickery</hi> is a Beaſt much reſembling a Hogg, ſave onely he draws his Breath at
+his ventricle; which for the moſt part concentrates on the middle of his Back; which Creature by
+obſervation is ſwifter of foot than the Hog is; But then his Fleſh is leaner, and reliſhes
+more of Veniſon then of Pork; and is taken with more diffi<g ref="char:EOLhyphen"/>culty then uſually Hogs are;
+becauſe ſwifter of Foot,
+<pb n="14" facs="tcp:50325:10"/>and many times endangers the Doggs that attempt him. So that he's ſeldom
+deſtroyed without Gun, or Dart, by reaſon of the exceſſive largneſs of his tusks that
+branch themſelves upwards, as alſo downwards: yet as formidable as he preſents himſelf to
+the apprehenſion of ſome men, hitherto none has known him to ſet up<g ref="char:EOLhyphen"/>on a man.</p>
+               <p>Then here's great quantities of the <hi>Armidillas</hi> (which the <hi>Hollander</hi> calls
+<hi>Tattoos</hi>) that are Arm'd with Armour on their Backs; and the largeſt amongſt them but
+of an indifferent ſize, ſeldom exceeding one foot in height. They are a Creature that generally
+feeds upon Fruits, and Roots: and when roaſted have the natural taſte of a Pigg, but then the
+Fleſh is much more Phyſical; as if Nature had made it a Specifick for a Surfeit.</p>
+               <p>Moreover, for accomodating <hi>Horſes, Cows, Aſs-Ne<g ref="char:EOLhyphen"/>goes, Sheep, Deer, Hoggs, Goats,
+Rawbits, &amp;c.</hi> I ſhould lame my Deſcription, and unworthily conceal the plenty of a
+Countrey that repreſents to every one the bounty of Nature by Heavens generoſity.</p>
+               <p>In this Iſland you will meet with two ſorts of <hi>Guanos;</hi> the one of a green, but the
+other of a grey colour, which is ſhaped like a <hi>Lizard,</hi> ſomewhat reſembling the
+<hi>Alle<g ref="char:EOLhyphen"/>gator.</hi> I have ſeen ſome of thoſe Creatures four and five foot in length: they
+live upon Herbs, Inſects and Fruits; and burrow like a Coney in the hollow Pits in ſand. The
+<hi>Indians</hi> extol them for Food, but the green <hi>Guano</hi> is a more delicate, and
+nutricious meat; who lives only by eating of Fruits and Flies; nor is he all out ſo bigg as the
+gray one (reſembling the Creature we call the Ca<g ref="char:EOLhyphen"/>melion) he lodgeth upon Trees, not in Cavities
+of Rocks, nor will he ſoil himſelf in marley Earth.</p>
+               <p>The <hi>Indian</hi> Coney is a delicate Creature, much big<g ref="char:EOLhyphen"/>ener, much taller, and larger than
+ours are. Their meat
+<pb n="15" facs="tcp:50325:10"/>is pleaſant, wholſome, and delicious. And their Skins aromatically ſmell
+of Musk; which occaſioned ſome ſtrangers to call them Musk Squirrils (or ſweet Rats, though
+ſomewhat improper) however their Skins are a good ſort of Furr, and the rather becauſe of
+their natu<g ref="char:EOLhyphen"/>ral Perfume.</p>
+               <p>Then there's the <hi>Apoſſum,</hi> another ſort of a Crea<g ref="char:EOLhyphen"/>ture, who is in reſemblance
+much of the caſt and figure of our <hi>Engliſh Badger</hi> (but his Leggs are equal) and the
+moſt of any thing aſſimulates the <hi>Racone,</hi> and naturally becauſe ſo affected with
+mankind in general, that he follows him, comes to him, and delights to gaze on him. So that by
+induſtry and an eaſy arti<g ref="char:EOLhyphen"/>fice, there's but little difficulty to make him tame: However the
+Femal has a falſe, or looſe belly, where ſhe ſuckles her young ones, and ſecures them
+from at<g ref="char:EOLhyphen"/>tempts.</p>
+            </div>
+            <div n="armoured creatures" type="part">
+               <head>Of Armed Creatures.</head>
+               <p>SUch is the Land <hi>Tortois;</hi> which vulgarly goes by the name of <hi>Turtle.</hi> But they
+are of two ſorts, and inhabit different Soils. For the leſſer (to his liking) padds the dry
+ground, whiles the larger contents him<g ref="char:EOLhyphen"/>ſelf in low and moiſt bottoms: ſome ſort of people
+eat them, and commend their food for good Diet; ſome of them are bigger, and ſome leſs: but
+the weightieſt to my Obſervation exceeded not thirty pound.</p>
+               <p>Here in the Iſland are three ſorts of Land-Crabbs <hi>(viz.)</hi> the Red, the black, and
+the white Crab; but the Red of himſelf is naturally ſo, becauſe Nature adorns him with more
+Beauty externally, then internally ſhe
+<pb n="16" facs="tcp:50325:11"/>inriches him with Aliment and Nutrition. Yet ſome have fancyed them very good
+food, and highly applaud them; but this ſort of Crab loves a rockey, and dry Land; who ſeldom
+or rarely conſults the Water.</p>
+               <p>The next in order we call the black Crab, from which the blew Crab differs but a little; they
+are both good food, yet their exceſs breeds Fluxes; the one ſtorms the Hills becauſe high
+minded, but the other more Sub<g ref="char:EOLhyphen"/>miſſive contents himſelf in Dales.</p>
+               <p>Then there's the White Crab (larger then the reſt) that generally lives in ſwamps, and miery
+places: I know not what they feed on, but are of themſelves moſt delicious food. Of this ſort
+the Carbs becauſe ſo nume<g ref="char:EOLhyphen"/>rous the Lazy <hi>Indian</hi> wont leave his <hi>Hamacca</hi> to
+catch them; except in rainy Weather, when they creep into their houſes; it may be then they'l
+take ſo much pains as to ſtretch forth an arm to fling them into the fire; ſo roaſt and eat
+them. Theſe Crabs we call Delvers, becauſe of their Undermining.</p>
+               <p>Of the ſame Claſſis is the <hi>Land Shell Souldier</hi> whoſe Claws reſemble the Claws
+of a Crab, but is of himſelf a very little Creature; ſome ſay they are eatable, but I Warrant
+not that: however their fat is a ſoveraign Oyl, and of that ſingular Vertue and excel<g ref="char:EOLhyphen"/>lency, as
+to blunt the Venom of a Poyſoned Dart.</p>
+            </div>
+            <div n="fish" type="part">
+               <head>Of Fiſhes.</head>
+               <p>ANd now I am got into the Claſſis of Fiſh, I ſhall offer you a preſent of the
+<hi>Groper</hi> firſt, becauſe he's a Fiſh generally much bigger than the
+<pb n="17" facs="tcp:50325:11"/>
+                  <hi>Salmon;</hi> whoſe Head ſuper-excels the head of a <hi>Cod</hi> for
+goodneſs; but an Angler may diſtinguiſh Salt-water-fiſh from <hi>Salmon.</hi>
+               </p>
+               <p>Next to the <hi>Grooper,</hi> we bring you the grey <hi>Porgo;</hi> who though in Stature and
+figure ſeems a leſſer fiſh, yet is he nothing inferiour for delicate food. Then there's the
+Red <hi>Porgo,</hi> of a faint pinck-colour, and ſcaled like the Grey, as is the Grey like the
+<hi>Grooper;</hi> this fiſh of fiſh is the Fiſhermans charm, and every mans purchaſe,
+whoſe hook and line may eaſily reach him.</p>
+               <p>But there are two ſorts of <hi>Cavallas,</hi> the Green and the Grey; the laſt we call
+<hi>Houſe-eye,</hi> of the ſize of a <hi>Sal<g ref="char:EOLhyphen"/>mon,</hi> and ſcaled much alike. But the Green
+<hi>Cavalla</hi> is leſs than a <hi>Grooper,</hi> and is infinitely prefer'd before the Grey for
+delicacy of taſte; more excellent food, and much more Nutritious.</p>
+               <p>Of the <hi>Mullet</hi> here are plenty; ſome bigger, and ſome leſs: from the ſize of a
+<hi>Mackerel,</hi> to the extent of a <hi>Pickerel.</hi> This fiſh I prefer for its delicacy of
+food, and by an ingenious artiſt makes excellent Scaveche.</p>
+               <p>So the <hi>Sea-chub</hi> in <hi>Tobago</hi> is a fiſh of that excellency, that any ways
+dreſt is a food extraordinary; but then he muſt be freſh and bleeding new; otherwiſe he
+nei<g ref="char:EOLhyphen"/>ther affords good food, nor will he make but indifferent Phyſick, this fiſh of all fiſh
+makes the royal <hi>Scaveche,</hi> as the Row of the <hi>Mullet</hi> makes the beſt
+<hi>Buttargo.</hi>
+               </p>
+               <p>The <hi>Manatee</hi> or <hi>Sea-cow,</hi> is of an Amphibious Nature, that eats graſs like an
+Ox, and ſwims like an <hi>Otter:</hi> that lives ſometimes under Water, and grows to a
+prodigious greatneſs; for ſome of them have weighed ten and twelve hundred pound weight; they
+are ſtruck with Harping Irons, or other Engines, and ſo taken, whoſe fleſh of fiſh
+neceſſity only extols it; but the skin if well managed, makes a kind of Bendleather; and
+<pb n="18" facs="tcp:50325:12"/>the ill Management thereof is when they Manatee the poor <hi>Nigros,</hi> with
+ſtraps made thereof.</p>
+               <p>Of the fiſh called <hi>Turtle,</hi> there are various ſorts; the <hi>Hawks-bill,</hi> the
+<hi>Vandoras,</hi> the <hi>Logerhead,</hi> and the green <hi>Turtle;</hi> which the Native
+<hi>Indian</hi> out of a ſtrange admi<g ref="char:EOLhyphen"/>ration, have to a degree of Superſtition thought among
+themſelves, that the laſt was ſacred; for they call it Gods fiſh, by reaſon of the
+extraordinary vertue that's found therein; as if compendiouſly ſum'd up to ſerve all
+<hi>America.</hi> And truly I can aſſert it a Medicinal food, for it cured me of Poyſon; from
+that intoxicated Palm-Wine that the <hi>Nigros</hi> gave me, when laſt in <hi>Guiney;</hi> which
+Poyſon was expelled at the <hi>Caiamanos,</hi> about ten months after, by eating of
+<hi>Turtle;</hi> but for the <hi>Gho<g ref="char:EOLhyphen"/>norea,</hi> the <hi>Yaws</hi> and the <hi>French-pox,</hi>
+there is not in Na<g ref="char:EOLhyphen"/>ture a food more effectual. This rariety of a Creature has three large hearts
+that hang together in one ſtring; and as the <hi>Manattee</hi> is, ſo is ſhe, an Amphibion
+that lives in the Water, and without it; that ſwims like a fiſh, yet in the Sand lays Eggs like
+a Fowl; whoſe fiſh is fleſh, and admits of various taſtes; as of Veal, of Beef, but the fat
+is green, and eats like Marrow; and their Eggs undiſtinguiſhable from thoſe of a Hen; which
+if pickled, ſtrung up, and barbacued in the Sun, are little or nothing inferiour to
+<hi>Buttargo.</hi> And though notwithſtanding the <hi>Vandoras Turtle</hi> aſſimilates ſome
+what the Nature of the Green, yet is her fat not by half ſo ſweet; and is of a more yellowiſh
+Complexion. But the <hi>Hawks-bill</hi> is ſmaller, and not ſo Soveraign; but then it excels
+the former in Subſtance, for our <hi>Tortois</hi> Combs are ſhaped from that ſhall: who
+alſo lays her Eggs in the Sand as the reſt do. But the <hi>Logerhead,</hi> becauſe larger in
+the front then his Fellows, ſhews more bulkey, and is a bigger fiſh. Now we
+<pb n="19" facs="tcp:50325:12"/>propound you three ways to take them; either by fools, which are ſhaped into
+Netts: or by a ſtrong prong of Iron, faſtned to a Pole; or otherwiſe by turning of their
+<hi>Calopeia</hi> upwards. Theſe are the uſual ways we take them, and their plenty is ſuch in
+this Iſland of <hi>To<g ref="char:EOLhyphen"/>bago,</hi> that one nights work may ſupply a thouſand peo<g ref="char:EOLhyphen"/>ple with food
+for more than twice twenty four hours.</p>
+               <p>The next that preſents in order, is the <hi>Barracooto,</hi> and they are of two forts, and
+ſome about two foot in length, they have a long beak, or ſnout, filled full of Teeth: which
+when you would ſurpriſe them by a hook, and line, be ſure you arm well with wier, for at
+leaſt two foot in length. The white mouth'd <hi>Barracooto</hi> is the wholſomeſt Fiſh; for
+the black mouth'd Fiſh his Teeth are venemous, and the fleſhy ſubſtance, eſpecially near
+the Back bone.</p>
+               <p>Then there's the great <hi>Garr,</hi> which the <hi>Spaniard</hi> calls <hi>Needle Fiſh,</hi>
+about ſome two foot long; whoſe bill is ſhaped like a <hi>Snite,</hi> good and wholſom
+Diet. But the ſmaller <hi>Garr-fiſh,</hi> which alſo has a long beak, and ſel<g ref="char:EOLhyphen"/>dom exceeds
+twelve inches in length; if by an Artiſt dreſt and fried with freſh Butter, its difficult to
+diſtinguiſh his taſte from a <hi>Smelt.</hi>
+               </p>
+               <p>The <hi>Pilchard</hi> we have alſo here (but then its ſmaller then ours in <hi>England</hi>)
+which ruſh into the Bays for ſelf-preſervation, when chaſed or purſued by a Maſter
+Fiſh: So that ſometimes part of their Shoals are forced a Shoar, and taken up by caſting Nets
+(and others) in very great quantities. But the <hi>Pilchards</hi> in <hi>Barbados</hi> are
+feavouriſh ſome months in the year.</p>
+               <p>Here alſo we have a Fiſh which we call an <hi>Anchovy,</hi> much ſmaller than a
+<hi>Pilchard,</hi> and of an <hi>Anchovy</hi> ſhape; which if taken in ſeaſon, and pickled by
+Art, may for
+<pb n="20" facs="tcp:50325:13"/>ought I know, vye with thoſe from Forreign Part</p>
+               <p>The <hi>Hedg-hogg</hi> Fiſh we have here alſo, that are arm'd with prodigious ſtrong
+Prickles: which in bigneſs and largneſs exceed the Land <hi>
+                     <g ref="char:V">Ʋ</g>rchin.</hi> Some have eaten
+them, and ſay they are very good food; But I rather ap<g ref="char:EOLhyphen"/>prove of their Oyl for Aches.</p>
+               <p>So of the <hi>Coney Fiſh,</hi> which is of a ſmaller ſize, that has purchaſed his name
+from the ſhape of his mouth. He's a Fiſh as ſeldom fed on as any Fiſh, but his Fleſh
+drawn out and neatly ſtuft, they ſend them to <hi>England,</hi> and other Parts for
+Rarities.</p>
+               <p>But the <hi>Indian Sturgeon</hi> (ſo called by the <hi>Engliſh</hi>) frequents the Bays, and
+are ſome of them five or ſix foot in length. The Fiſh wants only the art of well cu<g ref="char:EOLhyphen"/>ring, to
+preſerve it for tranſportation into Remoter Parts. However if you eat him freſh, you will
+find him excellent Food: they are taken with the line, and ſometimes with Nets; but take them at
+all times they are ſeldom out of ſeaſon. Now were there a Fiſhery erected in this Iſland,
+without diſpute it would turn to a very good accompt.</p>
+               <p>The <hi>Dolphin</hi> is a Fiſh that gives chaſe to the flying Fiſh; which are numberleſs
+here. But the <hi>Dolphin</hi> in his chaſe, ſhines of a golden colour, when at other times (he
+preys not) his Scales ſhew like Silver. They are taken with the Hook, as we ſail round the
+Iſland; ſome of them two, or three foot long, and more. They are delicate food, and make a fine
+Scaveche; which to admiration when their lives expire, they reflect a tin<g ref="char:EOLhyphen"/>cture of what preſents
+unto them. By which we may perceive, that the privation of water (which is their natural Element)
+cauſes an immediate Ceſſation of the actions of life.</p>
+               <p>The <hi>Flying fiſh</hi> is not all out ſo bigg as a <hi>Herring,</hi> nor
+<pb n="21" facs="tcp:50325:13"/>by much ſo boney, but is delicate food: which makes ſe<g ref="char:EOLhyphen"/>veral
+<hi>Fiſhes</hi> in the Sea prey upon him: who in a freſh gale dilates his finns, which Nature
+has lent him, as wings to fly with; &amp; which conveys him ſometimes half a furlong, or further.
+So that dipping his wings again into the ſalt Ocean, he readily prepares for another flight, and
+mind<g ref="char:EOLhyphen"/>ful of the <hi>Fiſh</hi> perſuing after him, he flies into the chains or midſhip of a
+veſſel: and ſometimes on the quar<g ref="char:EOLhyphen"/>ter Decks; as it happened to me in my paſſage to
+<hi>Bar<g ref="char:EOLhyphen"/>bados,</hi> that a flying Fiſh as I ſat at the Table; ſprung out of the Sea, and flew
+into my Lap.</p>
+               <p>The <hi>Boneto</hi> likewiſe he prays upon flying Fiſh, and is taken with the Hook, though
+ſometimes we ſtick them with Fisgigs, which with ſharpened &amp; barbed Prongs of Iron are
+faſtned to a Pole, having ſome Lead on the ex<g ref="char:EOLhyphen"/>treameſt part. Some of this kind are thirty
+inches long; which boyled and eaten with freſh Butter, and the juyce of a Lemmon, maks a Food
+moſt delicious.</p>
+               <p>So the <hi>Albacore</hi> that has the figure and ſhape of a <hi>Bo<g ref="char:EOLhyphen"/>neto;</hi> yet is he
+bigger, longer, and larger; much of the nature and reliſh of the <hi>Boneto;</hi> and preys on
+the fly<g ref="char:EOLhyphen"/>ing Fiſh, as the <hi>Boneto</hi> does. By which you may con<g ref="char:EOLhyphen"/>clude, that the flying Fiſh
+of all Fiſh is ſurrounded with Enemies.</p>
+               <p>Then there's the <hi>Amber Fiſh,</hi> an excellent Food; ſo is the <hi>Angel Fiſh,</hi>
+and the <hi>green Swallow</hi>-Tail; but the laſt is a Fiſh not much bigger than a
+<hi>Herring:</hi> all of them take the hook, and if they like their commons diſpond not of death,
+when to ſacrifice their lives to the Angler.</p>
+               <p>The <hi>Parrot Fiſh</hi> whoſe Scales ſhine with green and yellow, his head reſembles
+the head of a <hi>Parrot,</hi> let the delicacy of the Food praiſe it ſelf. So of the
+<hi>Golden Fiſh,</hi> called <hi>Dorado</hi> (by the <hi>Spaniard</hi>) his Scales all
+<pb n="22" facs="tcp:50325:14"/>gliſter like Gold. This and the other is about the ſize of a
+<hi>Mackarel,</hi> equivalent in Food with the former Fiſh. And of freſh Fiſh, every River
+and Rivulet ſwarms with Plenty.</p>
+               <p>The next <hi>Armado</hi> that in order approach us, are the Shell-Fiſh; for that end let us
+martial the <hi>Lobſter</hi> or <hi>Craw-Fiſh,</hi> firſt; which are of a prodigious growth
+in theſe parts, yet have not their fore Claws, as thoſe in <hi>England;</hi> but they are
+extreamly delicious, to the <hi>Guſto,</hi> becauſe they have a ſweet, and if with liberty I
+may preſume to ſay it, a pleaſant and delightful taſte. But then the <hi>Tobago</hi> Crab
+as much excells our <hi>English Crab,</hi> as the <hi>Lobſter</hi> is approved above
+compariſon. But they have <hi>green Crabs</hi> which in ſhape are like thoſe in
+<hi>England,</hi> ſave onely by nature they have a larger growth; theſe ſort of
+<hi>Crabs</hi> are delicious <hi>Food.</hi>
+               </p>
+               <p>The <hi>Sea-ſouldier</hi> aſſimilates the <hi>Crab,</hi> by reaſon of the great and
+ſmaller Claws: whoſe Shell reſembles a Snail the moſt of any thing, and looks like Pearl of
+an ob<g ref="char:EOLhyphen"/>ſcure colour.</p>
+               <p>The <hi>Cunck</hi> is a Shell Fiſh, of which we have plenty, nor have I known a ſweeter
+Food; two boys in two hours may take enough for 500 men. This <hi>Fish</hi> may be boiled, ſtewed
+with wine, or fryed with freſh Butter; eat them any ways, or any how, there's no <hi>Fish</hi> I
+per<g ref="char:EOLhyphen"/>ſwade my ſelf, better of his kind; whoſe Shell has the tincture of Pearl colour, ſlame
+colour, and white, ſome part thereof being taken out, the <hi>Indians</hi> makeof it their
+<hi>Wampam Pieg;</hi> which Shell is a ſtaple Commodity</p>
+               <p>
+                  <hi>The Horn-fish,</hi> I have ſeen ſome of them ten inches long, and not unlike the
+reſemblance of a <hi>Poſt-boys-horn:</hi> The Shell of this <hi>Fish</hi> is of a ſine
+<hi>figure,</hi> and partly of a Pearl colour, but not very Orient; yet the meat very
+excellent.</p>
+               <pb n="23" facs="tcp:50325:14"/>
+               <p>The <hi>Orney</hi> alſo is a ſort of <hi>Shell-fiſh,</hi> that ſticks and adheres to the
+ſides of Rocks; ſome of them you may pick up as big as an Egg, which if eaten with ſweet
+butter, are a delicious food: and the ſhell of this fiſh has an Orient Tincture.</p>
+               <p>So of the <hi>Scollop-fiſh,</hi> whoſe ſhell is as big as a ſaucer, and partly
+reſembling a Pearl in colour. This Fiſh has but half a Shell, and ſticks on the Rocks as
+birdlime to a twigg: which if neatly dreſt, and well ordered, you'l have little cauſe to
+complain of your diet.</p>
+               <p>
+                  <hi>Cockles</hi> grow here to the bigneſs of an Egg, but then there's an inferiour growth that
+never arrive to that Maturity: both lye in Sand, but examin'd by the fire, and if you have no
+averſion to fiſh, I'll paſs my word you will find good food.</p>
+               <p>Of the <hi>Sea-Snail,</hi> here are very great quantities: and ſome of them you will meet with
+as big as your fiſt: they lye very thick, and cloſe together, on very Sholes and Rocks, and
+ſometimes on banks that are almoſt dry: which without difficulty may be attempted, and taken at
+low-water. Their Shells are of a curious Fi<g ref="char:EOLhyphen"/>gure to form Cups of: and as much as any fiſh
+imitates the Oriental.</p>
+               <p>The <hi>Rock Oyster,</hi> adheres to the cliffs of the Rocks: the inſide of whoſe Shell is
+of a ſhining colour; his Li<g ref="char:EOLhyphen"/>quor brackiſh, and his fleſh good food. But that other
+<hi>Oyster</hi> that produceth the Pearl, they lye in ſome four or five fathom Water, which the
+<hi>Indians</hi> dive for, to obtain that treaſure: but we think to examin a readier expedient,
+if when once we come to have Dredges a<g ref="char:EOLhyphen"/>mongſt us.</p>
+               <p>But the <hi>Mangrove Oyſter,</hi> that grows upon Trees on the tops of boughs, &amp; the
+ſmaller branches; for you muſt know the Red <hi>Mangrove</hi> grows always in Salt-water, and
+<pb n="24" facs="tcp:50325:15"/>the tops of the trees becauſe bending their boughs down wards (peradventure
+lick on the Surface of the water) which by natural inſtinct incline towards their roots By this
+means the Oyſters Cluſter, and clung together about them: that not a bough is barren. Now
+ſome folks eat them out of Curioſity, but truly I cannot commend them for good food. Their
+Shells partly Pearl colour, and almoſt tranſparent, and becauſe very thin and clear, the
+<hi>Spaniards</hi> ſubſtitute them in lieu of Glaſs.</p>
+               <p>The <hi>Sea-Egg</hi> is of two ſorts: ſome black, and ſome grey. But either ſort are
+guarded, and arm'd with Prickles. But the grey eggs are the Oyſters, becauſe re<g ref="char:EOLhyphen"/>ſembling them
+in taſte: and are eaten raw, with Vine<g ref="char:EOLhyphen"/>gar and Pepper; but better ſtewed with Wine, and
+Shellots, and ſometimes with a caſt of <hi>East-India Spices;</hi> which ſo ordered, I
+confeſs, there's no richer food. So that you may read in the Compendions Catalogue, Some Fiſh
+are for food, and ſome others for Phyſick.</p>
+            </div>
+            <div n="fowl" type="part">
+               <head>Of Fowl.</head>
+               <p>NOw Gentlemen, as we have deſcribed the Race and Family of Fiſh; ſo if you pleaſe let us
+con<g ref="char:EOLhyphen"/>ſult the Genealogy of Fowl; their vertue, and variety; becauſe multiplied here, as if
+<hi>Tobago</hi> was a Paradice for <hi>Engliſh</hi>-men to inhabit in. Firſt therefore give me
+leave to begin with the <hi>Bill-Bird,</hi> whoſe Bill, or Beak ſhews as bigg as his Body; an
+evidence whereof is in St. <hi>James</hi>'s Park: but the <hi>Indians</hi> eat them, and extoll
+them for <hi>Food.</hi>
+               </p>
+               <p>Then there's the <hi>Black-Bird,</hi> about the bigneſs of a <hi>Crow,</hi> which feeds on the
+<hi>Berries</hi> that fall from the <hi>Palmeto;</hi>
+                  <pb n="25" facs="tcp:50325:15"/>whoſe fleſh is nothing inferiour to a Pidgeon. But the ſmaller Black-bird
+reſembles ours in <hi>England;</hi> ſave on<g ref="char:EOLhyphen"/>ly it has a longer bill, and the Fleſhy part of
+the taſte of our <hi>Engliſh</hi> Starlin ſo that you muſt ſtrip him of his skin,
+otherwiſe he eats bitter.</p>
+               <p>The <hi>Booby</hi> ſo called, is a bird over credulous; be<g ref="char:EOLhyphen"/>cauſe when to proffer him your
+hand, he'l perch on your fiſt. He feeds upon fiſh, and his fleſh eats fiſhey; and ſome of
+them you ſhall ſee as big as a Capon, whoſe Down is rich, beyond degrees of Compariſon; and
+leſs than two ounces from each individual Bird, you need never doubt of, and their Numbers ſo
+numerous that in ten days time, and by eaſy Artifice, an ordinary man may procure ten
+thouſand.</p>
+               <p>The <hi>Blew headed Parrot,</hi> is a very pretty bird, but in largeneſs he's ſomewhat
+inferiour to the Green: they may be taught to talk any dialect: becauſe naturally affect<g ref="char:EOLhyphen"/>ed with
+the Vanity of tattle. Roaſt, or boyl them, you'l commend the Diet. So of the
+<hi>Parraketoes,</hi> of which there are two ſorts; one about the bigneſs of our <hi>En<g ref="char:EOLhyphen"/>gliſh
+Thruſh,</hi> but plumed like a Parrot, and becauſe inclinable to prattle, the difficulty's the
+leſs to learn them to ſpeak. But the ſmaller <hi>Paraketo</hi> exceeds not a Spar<g ref="char:EOLhyphen"/>row in
+bigneſs; and like the green Parrot may be taught to talk, whoſe fleſh is equivalent with that
+of the Par<g ref="char:EOLhyphen"/>rot, ſave only you have not ſo much at a meal. Then there's the <hi>Main
+Parrot,</hi> whoſe head is Yellow, and has a yellow breſt: which to make him more beautiful
+Nature has cloathed him though in green. This bird ſpeaks the beſt, and is more Docible then
+the reſt; and if I miſtake not, is a rich food to feed on.</p>
+               <p>Then there's the <hi>Macaw,</hi> that's headed like a Parrot, but his body in proportion is four
+times bigger, whoſe Feathers becauſe ſhaded with blews, reds, and green,
+<pb n="26" facs="tcp:50325:16"/>makes him ſhine with luſtre, ſince beautified with ſuch e<g ref="char:EOLhyphen"/>minent
+colours One of them is to be <hi>ſeen</hi> in St <hi>James</hi>'s Park.</p>
+               <p>But the <hi>Flamingo</hi> of all fowls is the faireſt; and as they generally fly in Covees
+together, ſo they frequent<g ref="char:EOLhyphen"/>ly feed in flocks together: whoſe ſtature is tall and upright;
+equal to the height of a man. Some call them good food, but I aſſert they have curious
+Feathers, and of various colours. Truly to admiration when I have viewed this Creature, I have been
+led into ſpeculation to Contemplate the Creation: whoſe outſide, becauſe moſt beautiful,
+interprets a more glorious inſide. But to the <hi>Flamingo</hi> whoſe wings are skin'd with a
+glori<g ref="char:EOLhyphen"/>ous Pin-colour, inclinable to Scarlet: and becauſe, fring<g ref="char:EOLhyphen"/>ed and tipt with ſables: make
+them ſhow rich, as to the Majeſty of birds.</p>
+               <p>
+                  <hi>Tobago</hi> alſo has a <hi>Duck</hi> which is delicate food: but then they are ſmaller
+than ours in <hi>England;</hi> and dege<g ref="char:EOLhyphen"/>nerate as to ſetting, for ours will ſet all night on
+the Sand, but theſe ſort aloft, and lodge in Trees.</p>
+               <p>The <hi>Sea-gull</hi> is much of a Caſt with thoſe in <hi>England,</hi> ſomewhat larger
+then a Duck, and of a dunniſh co<g ref="char:EOLhyphen"/>lour.</p>
+               <p>And ſo the <hi>Sea-mew</hi> is plentiful here, and much of the Nature with thoſe in
+<hi>England:</hi> if different in any thing, their food eats better.</p>
+               <p>The <hi>Plover</hi> we have here, are of two diſtinct ſorts, and are generally grey, but the
+one is diſtinguiſhable from the other, by reaſon of different proportion, they are both good
+food, and delicious to feed on,</p>
+               <p>The <hi>Turtle-dove</hi> alſo admits of a double diſtinction, becauſe here are two
+ſorts, one bigger then another, but the larger they only coo, and the leſſer ſort have a
+kind of mournful murmuring Note; both of them are eatable, and delicate food.</p>
+               <pb n="27" facs="tcp:50325:16"/>
+               <p>The <hi>Man of War Bird</hi> (ſo called) makes to the ſhip<g ref="char:EOLhyphen"/>ping ſome diſtance from the
+Coaſt, ere ever the Sea<g ref="char:EOLhyphen"/>men can diſcover Land: he preys upon Fiſh, and has a fiſhy taſte.
+His Body ſeemingly is as bigg as a Tur<g ref="char:EOLhyphen"/>key; whoſe Feather is of a blackiſh grey, but his
+Gills look red, like a <hi>Turkey Cock</hi> when he Briſtels.</p>
+               <p>The <hi>Bird of Paradice</hi> (or the <hi>King-fiſher</hi>) is much a<g ref="char:EOLhyphen"/>bout the bigneſs of
+our <hi>Engliſh Starlin,</hi> whoſe Feathers repreſent all colours imaginable: he lives upon
+Flies that ſwim on the ſurface of the water, and that's his Food which Nature affords him.</p>
+               <p>The <hi>Pelican</hi> is a Bird about the bigneſs of a Gooſe, that has a great head, and a
+very large ſwallow, and a Crop or Craw larger than other Birds. Some of our people has made Caps
+of their Craws, which they wore to cover their heads. This Bird feeds upon <hi>Fiſh,</hi> and has
+himſelf a fiſhy taſte; but his Down is excellent.</p>
+               <p>The <hi>Cockerrico</hi> is the <hi>Indian</hi> name for the <hi>Tobago Phe<g ref="char:EOLhyphen"/>ſants,</hi> which
+are as large, and as fair as our <hi>Engliſh Phe<g ref="char:EOLhyphen"/>ſants;</hi> and thoſe that have fed upon
+them, ſay, they are better food. They are eaſily taken in Glades with Nets, or ſtruck with
+ſhot from the Bows of Trees.</p>
+               <p>There are two ſorts of <hi>Curlews,</hi> the one of them is red, and as bigg as a Capon; that
+has a crooked long beak, and gets his living by ſucking in ſalt-water-plaſhes. But the grey
+<hi>Curlew,</hi> which is ſhaped like the red one, differs onely in colour, and in feeding in the
+freſhes. They are both choice food, for thoſe that feed on them.</p>
+               <p>The <hi>Wood-Pidgeon</hi> ſo called here, feeds moſt upon Ber<g ref="char:EOLhyphen"/>ries; and is to my thinking
+the choiceſt food in <hi>Ameri<g ref="char:EOLhyphen"/>ca.</hi> This Bird is bigger than an <hi>Engliſh Pidgeon,</hi>
+and are ſometimes ſo fat that they burſt with their fall, when we have taken them off from
+tops of Trees with our
+<pb n="28" facs="tcp:50325:17"/>Shot. Here are many other Birds, and Fowls fit for food, but I want names for
+them; moreover their Fea<g ref="char:EOLhyphen"/>thers are ſerviceable and profitable to the Planters, either for
+preſent uſe, or tranſportation.</p>
+               <p>Moreover this Iſland of <hi>Tobago</hi> for raiſing of ſtock, may make ſuch improvement
+by <hi>Geeſe, Ducks, Turkies, Pullin,</hi> &amp;c. (I ſpeak within the bounds of modeſty)
+<hi>Ame<g ref="char:EOLhyphen"/>rica</hi> cannot produce a richer Soil.</p>
+            </div>
+            <div n="wood" type="part">
+               <head>Of Timbers.</head>
+               <p>I Begin with the <hi>Cedar</hi> firſt, becauſe its a Tree of emi<g ref="char:EOLhyphen"/>minency (and ſtature)
+that naturally grows in the Iſland of <hi>Tobago,</hi> and affords excellent Timber from two
+foot, to five foot diameter; with this ſort of Wood they generally build their houſes, and
+ſhipping; except what's tranſported to <hi>Barbados</hi> and other Parts.</p>
+               <p>The <hi>Green Hart</hi> is next, which I take to be <hi>Hercules;</hi> and of this ſort of
+Wood they make all manner of In<g ref="char:EOLhyphen"/>ſtruments, either for inlaying, or the uſe of Turnery.</p>
+               <p>Then there is the <hi>Locust</hi> of two ſeveral ſorts, the one white, and the other is red,
+from two to three foot dia<g ref="char:EOLhyphen"/>meter; either of them are very good Timber for building Houſes, Shores
+for Milnes, Spindles, and Shafts: they are good to make Beams, and Knees for ſhipping, or
+in<g ref="char:EOLhyphen"/>deed, to ſpeak generally, any thing elſe.</p>
+               <p>The <hi>Maſtick</hi> is a Timber Tree of ſo fine a grain, that it plains like our
+<hi>Engliſh Box;</hi> ſome of them are three and four foot Diameter, it's ſit for all uſes,
+and of a na<g ref="char:EOLhyphen"/>ture ſo durable, that the <hi>Caribe</hi>-Planters call it Wood e<g ref="char:EOLhyphen"/>verlaſting.</p>
+               <p>
+                  <hi>Mohogeny</hi> is a Tree that reſembles the <hi>Cedar</hi> in colour,
+<pb n="29" facs="tcp:50325:17"/>and is excellent Timber for building of Ships: the <hi>Indi<g ref="char:EOLhyphen"/>an Spaniard</hi>
+uſes it much in their building, in regard it's a Timber the worm will ſeldom touch under water.
+Now I fancy this Timber an excellent ſheathing for Shipping.</p>
+               <p>The <hi>Man-grove,</hi> by ſome called <hi>Red-wood,</hi> the proper uſe of the Wood is for
+Diers: which if further exami<g ref="char:EOLhyphen"/>ned, the Bark is uſeful in Tanning. But white <hi>Mangrove</hi> is
+of little uſe, ſave onely good to make Ropes with.</p>
+               <p>The <hi>White-wood</hi> is a Tree of that ſingular vertue, the worm will ſeldom touch it,
+therefore have the <hi>Engliſh A<g ref="char:EOLhyphen"/>mericans</hi> conſulted with this Timber to build their
+ſhip<g ref="char:EOLhyphen"/>ping, in regard of the ſingularity and durability of the Wood.</p>
+               <p>The <hi>Yellow Sander</hi> Tree, is from two to five foot di<g ref="char:EOLhyphen"/>ameter; a Timber of excellent
+uſe, and may be fitted to any purpoſe; it's very uſeful in the place where it grows, and it's
+profitable alſo to thoſe that tranſport it.</p>
+               <p>The <hi>Bay-tree</hi> is a Tree of that admirable vertue, moſt people admire it: whoſe Bark
+is like Cinnamon, and whoſe Berries, as are thoſe in <hi>Jamaica,</hi> of a Clove, and a
+Cinnamon ſcent and taſte, qualifies it with a double na<g ref="char:EOLhyphen"/>ture of Spice.</p>
+               <p>The <hi>Box-tree</hi> here is a ſolid, and firm wood; but ſel<g ref="char:EOLhyphen"/>dom or rarely grows to that
+degree of Timber.</p>
+               <p>The <hi>Fiddle-tree,</hi> ſo called, has a ſweet Flower, and grows up to Timber alſo, and
+is uſeful in building, <hi>&amp;c.</hi>
+               </p>
+               <p>The <hi>Brazil Tree,</hi> Nature has given it the growth of Timber; and a tincture of that
+vertue, that it's uſeful for Diers, in ſtaining of ſtuffs, or colouring of Cloth.</p>
+               <p>
+                  <hi>Brazilleto,</hi> is a Minor or Junior <hi>Brazil,</hi> ſeldom or rarely arriving to the
+magnitude of Timber; but as uſeful in dying as the former.</p>
+               <p>
+                  <hi>Bully-Tree</hi> is a ponderous, durable and compact Wood; that ſinks if put into the
+Water: they uſe it
+<pb n="30" facs="tcp:50325:18"/>in <hi>Barbados</hi> for Rolers, but principally for Coggs, to Spindles, and
+Shafts in their Windmills: beſides ſeve<g ref="char:EOLhyphen"/>ral other uſes.</p>
+               <p>The <hi>Cocus Tree,</hi> we thought it unneceſſary to range that among the Timber Trees,
+having conſidered it very uſeful to inlay with; and as profitable as plentiful to the
+induſtrious Turner.</p>
+               <p>The <hi>Caſſia Fiſtula</hi> is a Tree, but I cannot warrant it Timber; however the Fruit
+is for Phyſical Uſe.</p>
+               <p>The <hi>Callabaſh Tree,</hi> is a kind of tough Timber, which we ſhape into Pumps,
+Pump-boxes, Knees, and Timber for ſmall Veſſels; and with the ſhell of the fruit, ſome
+folks make drinking Cups, which are called <hi>Calabashes.</hi>
+               </p>
+               <p>The <hi>Granadilla</hi> is a <hi>baſtard Cocus;</hi> much of its nature, and uſeful in the
+like caſes.</p>
+               <p>
+                  <hi>Green Fustick</hi> is a ſort of Timber fitted for Inſtru<g ref="char:EOLhyphen"/>ments, or the art of inlaying;
+but the <hi>Yellow Fustick</hi> is more proper for Diers, as it may be directed; or ſuited at
+pleaſure to other uſes.</p>
+               <p>
+                  <hi>Lignum vitae</hi> is a compact and ponderous Wood, good to make Bowls with, and as good to
+make Bowls of; I mean your Punch Bowl, and alſo Peſtles and Mortars; but the <hi>Gum,
+Flowers,</hi> &amp; <hi>Bark,</hi> are preſerved as Druggs, <hi>&amp;c.</hi> and Ale or any other
+Liquor, if provided it have ſtood ten or twelve hours in a <hi>Lignum-vitae</hi>-Cup, and drunk,
+it helps againſt Conſumptions.</p>
+               <p>
+                  <hi>Manchioneel,</hi> is a ſort of Timber for Plank, and Shea<g ref="char:EOLhyphen"/>thing, ſo naturally
+ſeaſoned with ſome bitter taſte, that the Worm willby no means touch it.</p>
+               <p>
+                  <hi>Yellow Plumb-tree,</hi> is a very good <hi>Timber,</hi> and fitted for ſeveral uſes.</p>
+               <p>The <hi>Cabbage Tree,</hi> grows to a prodigious heighth, ſome to one hundred foot in length,
+yet has but a fibrous root and the <hi>Cabbage</hi> you ſhall obſerve at the extreameſt part;
+
+<pb n="31" facs="tcp:50325:18"/>ſave onely a lovely Plume of green leaves over ſhade it. But it's no
+<hi>Timber</hi> tree, by reaſon it contains ſo very much Pith: however it's uſeful for
+Palaſades, and to make Pumps, Gutters, Troughs, and Pailing with: but of the hard, and outmoſt
+Rind, the <hi>Indians</hi> by the uſe of fire make Piles for their Arrows; and with the leaves
+they cover the tops of their Houſes, or Wiggwams; but the <hi>Cabbage</hi> it ſelf is a moſt
+delicious food, and ſu<g ref="char:EOLhyphen"/>per-excells our in <hi>England.</hi>
+               </p>
+               <p>The <hi>Ebony tree</hi> grows naturally here, I need not to ſpeak the uſe of that.</p>
+               <p>But the <hi>Shrubs</hi> that grow here, are the <hi>Phyſick Nut</hi> and <hi>Flowerfence:</hi>
+which are planted in rows (or lines) as our Hedges are to divide and diſtinguiſh Plantations,
+And the <hi>Senſible Plant,</hi> which contracts it ſelf as ſoon as you touch it, is but a
+Shrub neither, that grows plenti<g ref="char:EOLhyphen"/>fully here</p>
+            </div>
+            <div n="staples" type="part">
+               <head>The Staples of <hi>Tobago.</hi>
+               </head>
+               <p>THe <hi>Cocao</hi> (that maketh <hi>Chocolatto</hi>) is a Nut ſo generally known, that it
+needs no diſcription: but yet I thought good to incert for encouragement, that in the Latitude of
+the Iſland of <hi>Tobago,</hi> one Acre of Land by modeſt computation may yield to the Planter
+400 pie<g ref="char:EOLhyphen"/>ces of Eight <hi>per Annum,</hi> (which in <hi>Barbados</hi> is valued at 100
+<hi>
+                     <abbr>l.</abbr> Sterling</hi>) after the Trees have been planted ſix years. Then there's
+another thing worthy your conſide<g ref="char:EOLhyphen"/>ration, that never any <hi>Herricane</hi> nor the Blaſts
+(ſatal to <hi>Ja<g ref="char:EOLhyphen"/>maica</hi> and <hi>Hiſpaniola</hi>) has been ever known in the Lati<g ref="char:EOLhyphen"/>tude of
+<hi>Tobago</hi> to ſtrike the tender bloſſom, and buds, with its periſhing ſtroke: which
+experience confirms
+<pb n="32" facs="tcp:50325:19"/>unto us, that by opening of the Woods in thoſe parts thereby to plant Canes,
+or ground proviſion; they let in the Blaſt, that invaded the <hi>Cocao</hi> (but in this
+latitude, were we open to the Ocean, it's never the worſe; for it never blaſts here) which
+<hi>Cocao</hi> was ſo plentiful in <hi>Jamai<g ref="char:EOLhyphen"/>ca,</hi> and <hi>Hiſpaniola</hi> formerly, that in
+the year 1654. I was at the taking of a <hi>Spanish</hi> Veſſel loaden with <hi>Cocao,</hi>
+which came from <hi>Hiſpaniola;</hi> ſo great was the plenty, then, and to admiration; but the
+reaſon I have already laid down, why there is ſuch a ſearcity now, and think it needleſs to
+make repetition, ſave onely to tell you that the <hi>Cocao Tree</hi> grows naturally wild in the
+Woods here in <hi>Tobago,</hi> and the <hi>Indians</hi> here gathered of the Nuts and brought to
+us; which Nuts were tranſported to <hi>Bar<g ref="char:EOLhyphen"/>bados,</hi> as Mr. <hi>Rodderigo</hi> the <hi>Jew</hi>
+now in <hi>England</hi> can evi<g ref="char:EOLhyphen"/>dence.</p>
+               <p>The <hi>Sugar Cane</hi> was planted here by the <hi>Dutch,</hi> and I almoſt bluſh to
+expreſs their wonderful increaſe, that the produce of one Acre of Canes ſhould amount to
+ſix thouſand pound of Sugar, beſides <hi>Rum</hi> and <hi>Mollaſſos:</hi> which in
+<hi>Barbados</hi> and the <hi>Leward Iſlands</hi> they eſteem it great profit if at any time
+one Acre yields them three thouſand. And yet the Sugar Cane we approve to be none of the beſt
+Staples in the Iſland of <hi>Tobago.</hi>
+               </p>
+               <p>And the <hi>Tobacco</hi> that grows in this Iſland is nothing inferiour to <hi>Spanish
+Trinidado,</hi> that lies diſtant about ſome ſeven Leagues, and not above twenty miles North
+from the <hi>Verines;</hi> from whence comes the beſt <hi>Tobacco</hi> in the world. Several
+ſmall Veſſels have I ſeen loaden from <hi>Trinidado,</hi> and the <hi>Tobacco</hi> ſold
+in the <hi>Role</hi> for 2 <hi>
+                     <abbr>s.</abbr> per</hi> pound, which Merchandize they tranſport
+to old <hi>Spain</hi> and other Parts to advance the price, which turns to conſiderable profit.
+So that in <hi>Tobago</hi> I perſwade my ſelf that a ſtout labouring man may make 3000
+<abbr>l.</abbr> of <hi>To<g ref="char:EOLhyphen"/>bacco</hi>
+                  <pb n="33" facs="tcp:50325:19"/>into Roll every year, and do it with a great deal of eaſe, which if ſold
+but at ſeven pence <hi>per</hi> pound ſter<g ref="char:EOLhyphen"/>ling, comes to a conſiderable ſum; as the
+<hi>Holander</hi> when they had the Iſland ingroſſed the ſame, and gave ſix
+<hi>Sti<g ref="char:EOLhyphen"/>vers</hi> for it there: which was afterwards tranſported to conſiderable profit.</p>
+               <p>
+                  <hi>Indigo</hi> is a certain vveed that grows in <hi>Barbados,</hi> and in moſt of the
+<hi>Leward</hi> Iſlands: but the beſt to my obſer<g ref="char:EOLhyphen"/>vation grevv in <hi>Guatimale,</hi> vvhich
+lies in or near the la<g ref="char:EOLhyphen"/>titude of <hi>Tobago;</hi> by vvhich I may rationally conclude that as good
+<hi>Indigo</hi> may be made here, as there; that one hand may dreſs up, and cure 1500 pound
+vveight in one year, all materials fitted, and the vveed brought to the place.</p>
+               <p>There are tvvo ſorts of <hi>Cotton;</hi> Ravil and Vine, of either ſort of vvhich an
+induſtrious Planter may Plant tvvo thouſand vveight in a year: and this I look upon is the
+meaneſt ſtaple in <hi>Tobago</hi> for a man to go upon, and employ his hands.</p>
+               <p>
+                  <hi>Ginger,</hi> That's another Staple; and as good grows here as in any part of the World,
+which admits of two ſeveral ways of curing to better it: ſo that ſome ſcal'd and dry it,
+otherſome ſcrape it; but the laſt is beſt, and more then doubles the price, let Markets
+rule as they will. But of the firſt its ordinary for one man to make ſeven Thouſand pound
+vveight a year.</p>
+               <p>
+                  <hi>Sarſaparilla,</hi> is a Spaniſh drug that grows in the <hi>In<g ref="char:EOLhyphen"/>dies,</hi> of which by
+reaſon of the great plenty in <hi>Tobago,</hi> one man I perſwade my ſelf, may gather and dry
+as much as by modeſt Computation comes to eighty, or a hundred pound Sterling a year.</p>
+               <p>
+                  <hi>Semper Vioum,</hi> is a certain Juicy Plant, that's guard<g ref="char:EOLhyphen"/>ed with a priekle Leaf; I need not
+tell you the uſe, and vertue of this Plant, of which the Planter here, as in
+<pb n="34" facs="tcp:50325:20"/>
+                  <hi>Barbadoes,</hi> &amp;c. may make as good Aloes, as that which comes from
+<hi>Succotrina.</hi> So that a Thouſand weight of Aloes <hi>Succotrina,</hi> will countervale the
+value of two Thouſand of <hi>Hippatica.</hi>
+               </p>
+               <p>
+                  <hi>Bees-wax,</hi> is another Staple; of the Honey we make Metheglen, or expoſe it to other
+uſes.</p>
+               <p>The <hi>Vinillios</hi> grows like the Cod of a French bean, and is ſomewhat flat, and thinner,
+and full of ſmall ſeeds. It generally grows upon buſhes, or Brambles that ſpread
+themſelves upon Rocks. So that when it bloſſoms, it ſends forth ſuch a fragancy as
+perfumes the Air; and when the Codds are ripening, they firſt turn green, after that brown, and
+laſt of all a more Ob<g ref="char:EOLhyphen"/>ſcure Colour. Some uſe them as a perfume for <hi>Choca<g ref="char:EOLhyphen"/>lata,</hi> or
+other wiſe to put amongſt Cloths. But the <hi>Spa<g ref="char:EOLhyphen"/>niards</hi> pickle them for Tranſportation,
+and their way, and manner is by ſcalding them in a pickle made up with Salt and Lime-water, which
+afterwards they dry up, and bind them in Bundels of about one hundred in a bundle; which bundles
+have been ſold in <hi>England</hi> for twenty, thirty, or fourty Shillings a Bundle: of theſe
+ſweet Cods I perſwade my ſelf that an active man may gather as much in a ſeaſon, as will
+amount to the value of ten thouſand Codds, and not looſe much time.</p>
+               <p>The Natural <hi>Balſam</hi> (as we call it) is a certain ſappy juice, that iſſues forth
+of the body of the tree, after you have wounded it, by making a hole therein; ſo tap it, and the
+Liquor deſcends into a clean Gourd, or any o<g ref="char:EOLhyphen"/>ther Veſſel that's placed under it. The leaf of
+this tree differs but a little from that of the Fig-tree, and the <hi>Bal<g ref="char:EOLhyphen"/>ſam</hi> of moſt
+ſoveraign uſe for wounds, both in ward and outward. Yet the true Valuation of this excellent
+Balſam, is hitherto unknown. However great quanti<g ref="char:EOLhyphen"/>ties,
+<pb n="35" facs="tcp:50325:20"/>as thirty or fourty Gallons, may be gathered in a year, by a diligent and
+induſtrous man.</p>
+               <p>And then there's the <hi>Balm,</hi> (like that) of <hi>Gilea,</hi> (and equal in Vertue for
+ought I know) that comes from the Flower of the Balſam-tree, whoſe Leaf is Yellow, of a golden
+colour, and as big as a Roſe when the flower is full blown, in which yellow Roſe, there appears
+about ſome three or four bubbles, or drops of an Amber colour, each of the bigneſs of a Pea,
+which ſprings out of the Roſe, and is that excellent and miraculous Balm, more valuable then
+Money. But the vertues I acquired of an <hi>Indian,</hi> who inſtructed me in the uſe on't,
+which at that juncture of time proved fortunate to me, when to conſider the cut, and bruiſe of
+my finger that made me languiſh under intollerable pain, yet in one Minutes time to be releaſed
+from pain: and within leſs than twenty four hours to receive an abſolute cure, confirm<g ref="char:EOLhyphen"/>ed it a
+Medicament of admirable vertues. Of which pre<g ref="char:EOLhyphen"/>cious Balm, I modeſtly judge near forty pound
+weight might be gathered (by an induſtrous man) in leſs ſpace of time then eight or ten
+months, beſides other Labor.</p>
+               <p>The <hi>Silk-Graſs,</hi> ſo called, is a Plant that flouriſhes moſt in moiſt bottoms,
+and has a large broad long and thick Leaf, guarded with Prickles, not much unlike the teeth of a
+Saw, yet ſpread themſelves every way; out of the Centre of theſe Leaves there grows a
+ſtalk, twelve or fourteen foot high, to four or five inches Diameter, to<g ref="char:EOLhyphen"/>wards the Bottom. When
+this ſtalk begins to Wi<g ref="char:EOLhyphen"/>ther, then the leaves are cut away, and laid in Water as you do Hemp;
+afterwards they dry it in the Sun, then hackle off the rotten pitthy ſubſtance which adheres to
+the more purer part of the ſilk-graſs, which may be ſpun to the fineneſs of ſilk,
+<hi>&amp;c.</hi> whereof you may make furniture for houſes, or habits for your ſelf and others.
+
+<pb n="36" facs="tcp:50325:21"/>But the general uſe of it is to make Ropes, and fiſhing Lines, of which to
+my certain knowledge there's no ſtronger, nor better in the World, and is a good Staple.</p>
+               <p>
+                  <hi>Arnotto</hi> or <hi>Annotto,</hi> its all one, (the <hi>Hollanders</hi> call it
+<hi>Rocoo</hi>) it ſtrikes a deep red, and is profitable for Dyers. The plenty of this Plant is
+ſuch here that one man on an Acre of ground may in one years time make a thouſand pound Weight:
+but the <hi>Annotto</hi> is cured two ſeveral ways: Firſt the <hi>Barrel,</hi> which is an
+inferiour ſort, and barrel'd up whiles as yet its moiſt: but the Cakes are dryed in the
+<hi>Sun.</hi> I have ſet down the method, and or<g ref="char:EOLhyphen"/>der for both. This <hi>Annotto</hi> groweth in
+prickly Burrs, like Teaſels, which Burrs when they be ripe, are full of Red ſeeds that are to
+be gathered in dry Weather, and put on a clean floor to thraſh out the ſeed, which af<g ref="char:EOLhyphen"/>terwards
+ought to be put into a Fatt, and ſteeped there till the water elicites a deep red Tincture: which
+the rather and ſooner is done, if provided you ſometimes ſtir it. Then with a ſieve, (or
+ſomewhat elſe of a like nature) they ſeparate the ſeeds from the tincture by let<g ref="char:EOLhyphen"/>ting the
+water run through a Foſſet till nothing viſibly remains, but a Recrement or Sedement in the
+bottom, which ſubſtance when like batter, they put it into Bar<g ref="char:EOLhyphen"/>rels, and ſo tranſport it.
+But others more curious, dry it in the <hi>Sun,</hi> which makes it better, and fitter for ſale;
+and to yield almoſt a double price.</p>
+               <p>The <hi>Green Tarr</hi> iſſues out of the earth from the <hi>Mun<g ref="char:EOLhyphen"/>jack Rocks,</hi> and is
+commonly gathered after a ſhower of Rain, by skimming it off from the ſurface of the Water; and
+then put it into a great Gourd, or ſuch like Veſſel, that has a hole at the bottom, they
+ſeparate the Oyl from the Water, by ſuffering the Water to ſlide gently out, but vvhen the
+Oyl appears, they cautiouſly ſtop and pre<g ref="char:EOLhyphen"/>ſerve it for ſeveral ſervile uſes, as to burn
+in Lamps, <hi>&amp;c.</hi>
+                  <pb n="37" facs="tcp:50325:21"/>and has a moſt foveraign vertue to help againſt pains, and Aches in any
+part of the Body. In the Iſland of <hi>Tobago</hi> great quantities of this Oyl is
+procurable.</p>
+               <p>The <hi>Munjack</hi> is nothing elſe than a Confirmation or Coagulation of the <hi>Tarr</hi>
+(we ſpoke of) into a more ſo<g ref="char:EOLhyphen"/>lid body, which <hi>Munjack</hi> were it in a frigid, as it is in
+the torrid <hi>Zone,</hi> would be abſolute Cole, ſuch as we burn in <hi>England.</hi> This
+<hi>Munjack</hi> after its beat into pow<g ref="char:EOLhyphen"/>der, they incorporate or mingle it with Earth, to burn
+under their Coppers in <hi>Barbadoes;</hi> otherwiſe it runs in<g ref="char:EOLhyphen"/>to an oily Subſtance, by
+reaſon of the heat; as has been obſerved by melted Pitch, inſtead whereof the
+<hi>Spaniard</hi> ſubſtitutes <hi>Munjack.</hi>
+               </p>
+               <p>The <hi>Soap Earth,</hi> repreſents to me a kind of Clay, that Nature has indued with vertue,
+and the Qualifica<g ref="char:EOLhyphen"/>tion of cleanſing, and purifying other bodies: which diſſolves in Salt, or
+in freſh Water; and makes a lather like ſope-ſudds, wherewith I waſhed my hands; and it not
+only ſcoured them, but took off the tanning to Ad<g ref="char:EOLhyphen"/>miration, and ſo it happens either to Linnen
+or Wool<g ref="char:EOLhyphen"/>en; by reaſon of its Mundificative Vertue and Quali<g ref="char:EOLhyphen"/>ty.</p>
+               <p>There is alſo a <hi>Clay</hi> that ſerves to clay Sugar with, or you may if you pleaſe
+make Earthen ware thereof. Moreover it will make good Brick or Tile, or to mingle it with Sand, you
+may ſhape it into Glaſs.</p>
+               <p>Many curious Shells, ſtones, Markaſites, and Mine<g ref="char:EOLhyphen"/>rals are found up and down the Iſland of
+<hi>Tobago,</hi> whoſe vertue and worth is as yet unknown, and as by the Bounty of Heaven here's
+plenty enough for the Suſten<g ref="char:EOLhyphen"/>tation of Man, and Beaſt: ſo by a natural inſtinct, and
+inclination Nature opens her doors of Treaſure, where<g ref="char:EOLhyphen"/>with to adorn, and inrich the induſtrous:
+God is pleaſ<g ref="char:EOLhyphen"/>ed to endue this Iſland with plenty, ſo let her Inhabi<g ref="char:EOLhyphen"/>tants
+<pb n="38" facs="tcp:50325:22"/>be mindful not to Surfeit with exceſs: for if ful<g ref="char:EOLhyphen"/>neſs, and eaſe, be the
+parents of idleneſs; idleneſs muſt of Neceſſity be the darling of a ſoft and remiſs
+Genera<g ref="char:EOLhyphen"/>tion, that ſlides into the fooliſh Embracements of Ho<g ref="char:EOLhyphen"/>nour and Ambition, which is the
+overthrow of civil So<g ref="char:EOLhyphen"/>ciety; and from which two evils, <hi>Libera nos Domi<g ref="char:EOLhyphen"/>ne.</hi>
+               </p>
+            </div>
+            <div n="improvement" type="part">
+               <head>Directions for Improvement in the Iſland of <hi>TOBAGO.</hi>
+               </head>
+               <p>SUppoſe a Man that has an hundred pound Sterlin is minded to tranſport himſelf; and
+Family, conſiſt<g ref="char:EOLhyphen"/>ing of eleven in number, to this Iſland of <hi>Tobago,</hi> and ſuppoſe
+their paſſages may coſt him fifty pound; and Manuals with other things requiſite and
+neceſſary for Planting, as alſo Proviſion for the firſt twelve months, together with the
+charge of Houſhold ſtuffs, and all o<g ref="char:EOLhyphen"/>ther Neceſſaries, may ſtand him in 47
+<abbr>l.</abbr> 10 <abbr>s.</abbr> more: Suppoſe alſo this man takes a Leaſe of fifty Acres
+of Land for a thouſand years, at the rate of twelve-pence an Acre anually, it amounts but to two
+pound ten ſhil<g ref="char:EOLhyphen"/>lings a year, (except otherwiſe he purchaſe the Fee ſimple of the
+Proprietors) which compleats the hun<g ref="char:EOLhyphen"/>dred pound; This is the firſt Money laid out; nor need he be
+at any more charge, for in twelve months time he will have ground proviſion enough, and in all
+Pro<g ref="char:EOLhyphen"/>bability two Crops of Tobacco.</p>
+               <p>The next thing to conſider of, is the Improvement of the ſaid Land; which is as followeth.
+After your Arrival in the Iſland of <hi>Tobago</hi> the firſt ſix Months may
+<pb n="39" facs="tcp:50325:22"/>be ſpent to clear fifteen Acres of Land, and to put Proviſions into the
+ground; to build Conveniencies to accomodate your ſelf, and Family, to adapt and fit the ground
+for planting a Nurſery of <hi>Cacoa-nuts;</hi> as alſo a bed ſowed with <hi>Tobacco</hi>
+ſeeds, and be ſure to keep your Nurſery clear from Weeds. Then about a Months time after you
+have ſown your Tobacco ſeed (provided the Seaſons be good) you may then draw your Tobacco
+Plants, and plant them about ſome four foot diſtance, one from another, regularly and in rows:
+which ſaid Tobacco <hi>Tobago</hi> produces, is nothing inferiour to <hi>Spa<g ref="char:EOLhyphen"/>niſh
+Trinidado,</hi> that lies about ſeaven Leagues diſtance from the ſaid Iſland of
+<hi>Tobago,</hi> where I have ſeen the <hi>Spaniards</hi> (when I was a Priſoner amongſt
+them) ſell great quantities of <hi>Trinidado Tobacco</hi> at the rate of two Shillings a pound;
+which ſaid <hi>Tobacco</hi> the <hi>Spaniards</hi> tranſport from thence, to old
+<hi>Spain;</hi> and ſell it there to conſiderable advantage. Now amongſt your
+<hi>Tobac<g ref="char:EOLhyphen"/>co</hi> plants, you may plant your <hi>Cocoa,</hi> and tranſplant them when about ſix
+Months old, into new ground, fitted at ten or twelve foot diſtance; and be ſure to keep clean
+from Weeds; In which latter ſix Months time, you may have on your cleared ground two Crops of
+<hi>Tobacco.</hi> Now admiting you make but eight thouſand weight of Neat <hi>Tobacco</hi> on the
+ſaid Ground; yet in all probability (provided your People be healthy) it may double the number to
+ſixteen thou<g ref="char:EOLhyphen"/>ſand. But if it do not, and put the caſe your <hi>Tobacco</hi> fell but for an
+eighth part of what the <hi>Spaniards</hi> ſell for in <hi>Trinidado</hi> (which is but three
+pence <hi>per</hi> pound fold here in our Iſland) yet will this Crop yield you one hundred pounds
+Sterlin, which is your Money gained the very firſt year, and in ſix month time, all charges
+being born.</p>
+               <p>Now ſuppoſe that at the beginning of the ſecond year
+<pb n="40" facs="tcp:50325:23"/>the ſaid fifteen Acres be all cleared; and Proviſion e<g ref="char:EOLhyphen"/>nough put into
+<hi>the ground</hi> ſufficient for double your num<g ref="char:EOLhyphen"/>ber of hands: you may rationally then expect
+four Crops in twelve Months time, when as formerly you made two Crops in the laſt ſix Months.
+So that with the hundred pounds you gained laſt year, you may now purchaſs ſeven or eight
+ſlaves, or Servants; which may in all probability treble the firſt year. But put the caſe it
+but only double, yet at the worſt it may yield you (and all charges born) two hundred pounds
+Sterlin.</p>
+               <p>Now we cannot otherwiſe conclude (if things ſuc<g ref="char:EOLhyphen"/>ceed well) but that the third year will
+double the ſecond year by improvement, as above is expreſt; and if ſo, then your Crop will
+amount to four hundred pounds Sterlin.</p>
+               <p>And the fourth year doubles the third year, by rea<g ref="char:EOLhyphen"/>ſon the <hi>Cocoa</hi> that was planted the
+firſt year on the fif<g ref="char:EOLhyphen"/>teen Acres of Land, may produce to the value of thir<g ref="char:EOLhyphen"/>ty pounds Sterlin an
+Acre; beſides the encreaſe of <hi>To<g ref="char:EOLhyphen"/>bacco,</hi> and clearing of more ground, together with
+your encreaſe of Servants, and ſlaves; and planting of more <hi>Cacao</hi> Trees, which at
+leaſt will ariſe to eight hundred pounds ſterlin, the fourth year.</p>
+               <p>The fifth year, in all Probability doubles the fourth; by reaſon the <hi>Cocoa</hi> that was
+firſt planted, yeilds now to the value of ſixty pound Sterling an Acre, as the ſe<g ref="char:EOLhyphen"/>cond years
+planted <hi>Cocoa</hi> yielded but thirty pounds per Acre. So that clearing of more ground, and
+purcha<g ref="char:EOLhyphen"/>ſing more ſlaves, and Servants; your produce of <hi>Cocoa</hi> and <hi>Tobacco,</hi>
+clears you at leaſt one thouſand ſix hun<g ref="char:EOLhyphen"/>dred pounds Sterlin, as now the price goes.</p>
+               <p>The ſixth year you may very well clear three thouſand pounds ſterlin, and all charges
+borne; by reaſon the <hi>Cocoa</hi> planted the firſt year, is now come to perfection, &amp; is
+at its full height of bearing; Which in this Latitude may yield
+<pb n="41" facs="tcp:50325:23"/>one hundred ponnd Sterling an Acre. <hi>(viz.)</hi> the firſt fifteen Acres
+which were Planted the firſt year. And the ſecond years Plants Planted the ſecond year, will
+yield you ſixty pound ſterling, &amp; the third years Plants, as by the ſame calculation, may
+yield you thirty pound Sterlin an Acre. So that by purchaſing the more ſer<g ref="char:EOLhyphen"/>vants, and ſlaves,
+you may if you pleaſe decline ſo much planting of Tobacco as formerly you did.</p>
+               <p>The ſeventh year you will have all your Land Planted with <hi>Cocoa;</hi> and that
+encreaſing, you need not plant a<g ref="char:EOLhyphen"/>bove ten, or fifteen Acres of <hi>Tobacco</hi> this year,
+amongſt your <hi>Cocao;</hi> but you may Plant proviſions amongſt them for ſupport and
+maintenance of your ſelf and Family. So that from that increaſe of your ſeventh years Crop,
+you may hope, and expect by a modeſt computation, to clear from the ſaid fifty Acres of Land,
+at leaſt five thouſand pounds Sterling a year.</p>
+               <p>And now we come to the Reaſons for this great im<g ref="char:EOLhyphen"/>provement; you muſt conſider, that the
+<hi>Spaniards</hi> in <hi>Trinidado, &amp;c.</hi> give among themſelves one hundred pounds
+Sterling, for a Nigro Slave, and yet the ſaid ſlave will not ſtand his maſter in one
+ſingle penny, at the years end for his purchaſe. And all the labour and ſer<g ref="char:EOLhyphen"/>vice the
+<hi>Spaniard</hi> imploys him in the year about, is on<g ref="char:EOLhyphen"/>ly in <hi>Cocoa,</hi> and <hi>Spaniſh
+Tobacco,</hi> in this our Latitude.</p>
+               <p>Now pray conſider, that we can have Nigro Slaves brought and delivered to us at fifteen pound
+ſterling a head; by reaſon we have an open trade, and the <hi>Spani<g ref="char:EOLhyphen"/>ard</hi> allows not of a
+free trade. VVhere note the <hi>Spani<g ref="char:EOLhyphen"/>ard</hi> pays ſixpence, or more for every thing he wants;
+when we can have the ſame for a ſingle peny. That's one reaſon.</p>
+               <p>The ſecond Reaſon is, the <hi>Spaniard</hi> cannot have any <hi>Tunage</hi> for goods from
+old <hi>Spain</hi> to the <hi>Weſt-Indies,</hi> and
+<pb n="42" facs="tcp:50325:24"/>home again, for leſs then forty or fifty pounds ſterling <hi>per Tun;</hi>
+beſides the Duties run very high. And we can have Freight for five or ſix pounds <hi>per
+Tun,</hi> and no Duties from us to a free Port. VVhen therefore to conſider and compute the
+charge on either ſide, we pro<g ref="char:EOLhyphen"/>fit by what we tranſport, ſix to one. VVhich makes the
+<hi>Spaniard</hi> generally ſo poor in the <hi>Indies;</hi> and we ge<g ref="char:EOLhyphen"/>nerally to flouriſh ſo
+much the more.</p>
+               <p>The third reaſon is, that in a Ship of three hundred <hi>Tun,</hi> the Spaniard has ſeldom
+leſs then two hundred men belonging to her; and the wages of each man comes at leaſt to Fifty
+Shillings Sterling <hi>per</hi> month: which in the whole amounts to five hundred pound a month,
+barely for wages; then you are to Conſider the month<g ref="char:EOLhyphen"/>ly Proviſion to accomodate theſe men
+cannot come to leſs then one hundred and ſixty pound Sterlin, and ten months at ſix hundred
+and ſixty pound <hi>per</hi> Month, amounts to ſix thouſand and five hundred pounds Sterlin
+for ten Months. Moreover this Ship of three hundred Tun, ſeldom carries leſs then forty Pieces
+of Ordinance, which with their Proviſions, <hi>&amp;c.</hi> by modeſt computation takes up no
+leſs room then one hundred and fifty Tun. So that the Ship in all Probability cannot bring home
+more then one hundred and fifty tun of Merchants goods, and the fraight of theſe goods comes to
+forty pound Sterlin a tun. So that by this Calculation they muſt be looſers at leaſt ſix
+hundred pound Sterlin, and at fourty five pound-<hi>per</hi> tun, to pay ware and tare of the Ship,
+and mens wages. So that for the ſhips ware and tare it comes barely but to one hundred and fifty
+pound Sterlin clear:</p>
+               <p>Now admit an <hi>Engliſh</hi> ſhip of three hundred tun, be bound for <hi>Jamaica,</hi> and
+ſuppoſe the fraight of this ſhip be at ſix pound ſterlin <hi>per</hi> tun, this ſhip
+ſhall make her voy<g ref="char:EOLhyphen"/>age
+<pb n="43" facs="tcp:50325:24"/>better in eight months time then the <hi>Spaniard</hi> ſhall in ten Months;
+now the fraight of the <hi>Engliſh</hi> ſhip comes to one thouſand eight hundred pound
+ſterlin, and the Wages and Victuals of the ſaid Ship at ſixty pound <hi>per</hi> Month, comes
+to four hundred and eighty pound ſter<g ref="char:EOLhyphen"/>lin, ſo that you ſee the Ship clears for her ware and
+tare the ſum of one thouſand three hundred and twenty pound ſterlin: See here therefore the
+great difference.</p>
+               <p>The fourth and laſt reaſon is this; The King of <hi>Spain</hi> contracts with a body of
+Merchants to furniſh the <hi>Weſt-Indies</hi> with four thouſand <hi>Nigros</hi> every year;
+and the <hi>Nigrillos</hi> or Merchants there engage to pay the King one hundred peices of Eight
+Cuſtom for each <hi>Ni<g ref="char:EOLhyphen"/>gro</hi> ſlave brought unto them. VVhich comes to four hundred
+thouſand pieces of Eight by the year, which is paid to the ſaid King, the King therefore
+prohibits all Merchants, and others, for bringing <hi>Nigros</hi> to the <hi>Weſt-Indies:</hi>
+And each piece of Eight is valued at five ſhillings ſterlin in <hi>Barbadoes;</hi> but in the
+<hi>Lee-ward Iſlands</hi> it goes for ſix.</p>
+            </div>
+            <div n="proposals" type="part">
+               <head>Here followeth the <hi>Propoſals</hi> made by my ſelf and Company, To all ſuch People
+as are minded to Tianſport or Concern themſelves in the Iſland of <hi>TOBAGO,</hi> Which
+lieth about forty Leagues South from <hi>Barbadoes.</hi>
+               </head>
+               <p>WHereas his Majeſty the King of Great <hi>Brittain,</hi> that now is, hath given and granted
+unto <hi>James</hi> Duke of <hi>Courland,</hi> his Heirs and Succeſſors, the ſaid Iſland of
+<hi>Tobago,</hi> on Con<g ref="char:EOLhyphen"/>dition
+<pb n="44" facs="tcp:50325:25"/>that none ſhall inhabit the ſaid Iſland, ſave only the Subjects, of the
+King of <hi>England</hi> and the Duke of <hi>Courland,</hi> their Heirs and Succeſſors: On the
+ſaid Condition, I have contracted with the ſaid Duke, that my ſelf and Company ſet<g ref="char:EOLhyphen"/>tle One
+hundred and Twenty Thouſand Acres of Land in the ſaid Iſland, and to have ſeveral great and
+large Priviledges; Some of which are here incerted, <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Imprimis,</hi> That One Hundred and Twenty Thouſand Acres of Land in the ſaid Iſland
+of <hi>To<g ref="char:EOLhyphen"/>bago,</hi> is given and granted to my ſelf and Company, and our Heirs for ever; and
+Seven Years to be free from Payment of any Rent; and after the Expiration of Seven Years each for
+him<g ref="char:EOLhyphen"/>ſelf is to pay Two Pence <hi>per</hi> Acre every Year to the ſaid Duke, his Lawful Heirs
+and Succeſſors.</p>
+               <p>
+                  <hi>Secondly,</hi> That my ſelf and Company, and all the Inhabitants, ſhall enjoy Liberty of
+Conſci<g ref="char:EOLhyphen"/>ence, without Interruption; Roman Catholicks only Excepted.</p>
+               <p>
+                  <hi>Thirdly,</hi> That my ſelf and Company, <hi>&amp;c.</hi> are to be Governed by a
+Governour, Deputy Gover<g ref="char:EOLhyphen"/>nour, and Aſſembly, to be yearly choſen by the Majority of
+Freeholders Votes, of the People in the Iſland, to make good and wholeſome Laws for the good
+Government and Defence of the ſaid
+<pb n="45" facs="tcp:50325:25"/>Iſland; and all Controverſies in the Premiſes to be decided by the
+Majority of Voices.</p>
+               <p>
+                  <hi>Note,</hi> Theſe are but Breviates and part of the Heads of the Grant from the Duke of
+<hi>Courland,</hi> Ra<g ref="char:EOLhyphen"/>tified to my ſelf and <hi>Company,</hi> whereby we hold and enjoy our Land;
+for that end I do refer all Peo<g ref="char:EOLhyphen"/>ple to the Grant, as more at large; as alſo to them that have
+been on the Skirt or Body of the ſaid Iſland, to confirm the Truth of what is before ſpoken
+of the Products of the ſaid Iſland.</p>
+               <div n="encouragement" type="section">
+                  <head>Propoſals for further Encouragement.</head>
+                  <p>
+                     <hi>Firſt,</hi> Thoſe which are deſirous to concern themſelves in the ſaid Iſland,
+ſhall and may have as much Land as they themſelves pleaſe, either by Leaſe or Purchaſe;
+onely they are to put upon e<g ref="char:EOLhyphen"/>very Fifteen Acres of Land one <hi>White Man,</hi> and ſo in
+proportion to the reſt; and this to be done in Three Years time.</p>
+                  <p>
+                     <hi>Secondly,</hi> All Perſons that are deſirous to Tran<g ref="char:EOLhyphen"/>ſport themſelves to the ſaid
+Iſland in the quality of Servants, ſhall have <hi>Better Encouragement</hi> from my ſelf and
+Company, than has been yet Propoun<g ref="char:EOLhyphen"/>ded by any of His Majeſties Subjects in any
+<hi>Set<g ref="char:EOLhyphen"/>tlement</hi> in the <hi>American</hi> Plantations.</p>
+                  <p>
+                     <hi>Thirdly,</hi> And for a further Encouragement, All thoſe Perſons and Planters that are
+any ways con<g ref="char:EOLhyphen"/>cerned
+<pb n="46" facs="tcp:50325:26"/>in the Premiſes, ſhall have <hi>Credit</hi> given un<g ref="char:EOLhyphen"/>to them from Crop to
+Crop, as the <hi>Factory</hi> is ſtor'd, for what they ſhall ſtand in need of; for which the
+ſaid Company will Erect a <hi>Bank</hi> or <hi>Fa<g ref="char:EOLhyphen"/>ctory of Credit</hi> in the ſaid Iſland,
+the Debtor allow<g ref="char:EOLhyphen"/>ing only two and a half <hi>per Cent.</hi>
+                  </p>
+                  <p>
+                     <hi>Fourthly,</hi> All Merchants and others that ſhall import any Negroes or other
+Merchandiſe into the ſaid Iſland, ſhall have their Goods and Debts Inſured, and
+diſpoſed of, for Two and a Half <hi>per Cent.</hi> with Factorage, Storage, Wharfage,
+<hi>&amp;c.</hi> And Exported again for Two and a Half <hi>per Cent.</hi> more. And all
+<hi>Tradeſmen</hi> and Others tha. Contract any Debts amongſt themſelves, ſhall have Credit
+given them out of the <hi>Bank</hi> or <hi>Factory,</hi> from Crop to Crop, for Two and a Half
+<hi>per Cent.</hi> And the <hi>Proprietors</hi> do engage their Whole Intereſt for the True
+Performance of the aforeſaid Premiſes.</p>
+                  <p>
+                     <hi>Fifthly,</hi> All Merchants and others that have Goods fit to Accommodate the ſaid
+Iſland, and have not ready Money to purchaſe Land, nor to pay for their own or Servants
+Paſlage, ſuch may barter with Goods in lien of Money: Always pro<g ref="char:EOLhyphen"/>vided, This implies only
+ſuch Perſons as contract with the <hi>Proprietors,</hi> or ſome of them, before the firſt
+Shipping departs out of the River of <hi>Thames,</hi> to Ship off, as above, their proportion of
+<hi>Goods</hi> or <hi>People,</hi> as is already ſufficiently above-expreſſed.</p>
+                  <pb n="47" facs="tcp:50325:26"/>
+                  <p>For the Accomodation of all Perſons that de<g ref="char:EOLhyphen"/>ſire to be Concern'd in the above-named Island
+of <hi>Tobago,</hi> ſome of the <hi>Proprietors,</hi> or their Agents, will give their Attendance
+every day in the Week, at Mr. <hi>Nathaniel Morin</hi>'s, at the <hi>Blew Anchor</hi> in
+<hi>Finch-Lane,</hi> near the <hi>Royal Exchange,</hi> from Eight a Clock in the Morning, till two
+in the Afternoon: And at <hi>Jones</hi>'s <hi>Coffee Houſe</hi> in <hi>Ship yard</hi> in
+<hi>Bartholomew Lane,</hi> from two in the Afternoon till four. And at the
+<hi>Amſterdam-Coffee-Houſe</hi> in <hi>Bartholomew Lane</hi> from four in the Afternoon till
+ſix. Where any Per<g ref="char:EOLhyphen"/>ſon may receive more Particular Satisfaction: Where alſo may be ſeen a
+Schedule of the Pro<g ref="char:EOLhyphen"/>prietors, for the ſetling Twenty Thouſand Acres of Land in the ſaid
+Island, for a Joynt Stock, for Subſcriptions of any Perſons that are willing to be Adventurers
+in the ſame. And at each of which places theſe Books are to be Sold; Price Stitcht,
+Six-pence.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>☞ A nevv Map of the Iſland of <hi>Tobago</hi> (with a Chart of all the
+Caribee-Iſlands) is to be ſold by <hi>John Seller,</hi> at the VVeſt-ſide of the <hi>Royal
+Exchange.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
